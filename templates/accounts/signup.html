@@ -1,0 +1,20 @@
+{% extends 'form_base.html' %}
+
+{% block content %}
+<div class="container signup-container">
+    <div class="row center">
+        <div class="col s8 offset-s2">
+            <h2>Sign up for a free account</h2>
+            <p class="lead" style="font-size: 23px;">Select below the type of account you want to create</p>
+            <div class="row button-group-center">
+                <div class="col s12 m3 offset-m3" style="margin-bottom: 40px;">
+                    <button class="btn custom-btn" ><a href="{% url 'student_signup' %}">Student</a></button>
+                </div>
+                <div class="col s12 m3">
+                    <button class="btn custom-btn"><a href="{% url 'teacher_signup' %}">Teacher</a></button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

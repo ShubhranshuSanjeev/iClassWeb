@@ -1,0 +1,29 @@
+CSE3002 Internet and Web Programming		A2	4	Archana T > Nalini N
+CSE2006 Microprocessor and Interfacing		C2	4	Yokesh Babu S > Jasmin T Jose
+CSE1004 Network and Communication		D2	4	Jayakumar K
+STS2202	???					E2	1	
+PHY1999 Introduction to Innovative Projects	TB2	2	Subramaniam C K > Ankur Rastogi
+CSE3020	Data Visualization			F2	4	Meenakshi S P > Rajkumar R
+CSE1007	Java Programming			G2	4	Janani T > Deepikaa S > Elango N M
+-----------------------------------------------------------
+							23
+
+STS > DV(11+12) > JP(1+2) > NAC(9+10) > MAI(3+4) > IWP(5+6) > IIP
+
+CSE3013 Artifical Intelligence			F2	4	Geraldine > Selvakumar > Jyotismita
+CSE4001 Parallel and Distributed Computing	B2	4
+
+UC
+2 IIP 
+3 TARP
+2 Language
+2 Lean Mgmt
+
+2 Extracurricular
+2 Internship
+3 STS
+2 Exam
+20 Capstone
+---
+38
+

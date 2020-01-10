@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <div class="container">
+        <div class="row">
+            <div class="col s12">
+                <a href="{% url 'create_class' %}"><button class="btn custom-btn">Create Classroom</button></a>
+                <a href="{% url 'list_classrooms' %}"><button class="btn custom-btn">View Classrooms</button></a>
+                <a href="#"><button class="btn custom-btn">Assignments</button></a>
+            </div>
+        </div>
+    </div>
+{% endblock  %}

@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            {% load static %}
+            <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+            <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"  media="screen,projection"/>
+            <link type="text/css" rel="stylesheet" href="{% static "css/style.css" %}">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        </head>
+
+    <body>
+        {% if request.user.is_authenticated %}
+            <ul id="slide-out" class="sidenav">
+                <li>
+                    <div class="user-view">
+                        <div class="background center" style="background-color: #26c3a1;">
+                            <img src="{% static "images/back-1.png" %}" width="200px">
+                        </div>
+                        <a href="#"><img class="circle" src="{% static "images/avatar.png" %}"></a>
+                        <a href="#"><span class="white-text name">{{ user.username }}</span></a>
+                        <a href="#"><span class="white-text email">{{ user.email }}</span></a>
+                    </div>
+                </li>
+                <li><a href="{% url 'dashboard' %}"><i class="material-icons">dashboard</i>Dashboard</a></li>
+                <li><a href="{% url 'user_profile' %}"><i class="material-icons">settings</i>Settings</a></li>
+                <li><a href="{% url 'logout' %}"><i class="material-icons">exit_to_app</i>Logout</a></li>
+            </ul>
+            <div class="hamburger-menu">
+                <a href="#" data-target="slide-out" class="sidenav-trigger" style="color: #fff;"><i class="material-icons">menu</i></a>
+            </div>
+        {% else %}
+            <header class="page-header">
+                <nav class="z-depth-0 navigation-bar">
+                    <div class="nav-wrapper">
+                        <a href="{% url 'index' %}" class="brand-logo">iClass</a>
+                        <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+                        <ul class="right hide-on-med-and-down">
+                            <li><a href="{% url 'login' %}">Home</a></li>
+                            <li><a href="{% url 'signup' %}">Services</a></li>
+                            <li><a href="{% url 'login' %}">Login</a></li>
+                            <li><a href="{% url 'signup' %}">Signup</a></li>
+                        </ul>
+                    </div>
+                </nav>
+    
+                <ul class="sidenav" id="mobile-demo">
+                    <li><a href="{% url 'login' %}">Home</a></li>
+                    <li><a href="{% url 'signup' %}">Services</a></li>
+                    <li><a href="{% url 'login' %}">Login</a></li>
+                    <li><a href="{% url 'signup' %}">Signup</a></li>
+                </ul>
+            </header>
+            
+        {% endif %}
+        <main class="{% if not request.user.is_authenticated %} color-background {%endif%}">
+            {% if request.user.is_authenticated %} 
+                {% block content %}
+                {% endblock %}
+            {% else %}
+                <h1>Welcome to iClass</h1>
+            {%endif%}
+        </main>
+    </body>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var elems = document.querySelectorAll('.sidenav');
+            var elems1 = document.querySelectorAll('.collapsible')
+            var elems2 = document.querySelectorAll('.modal');
+            var instances = M.Sidenav.init(elems, []);
+            var instances1 = M.Collapsible.init(elems1, []);
+            var instances2 = M.Modal.init(elems2, []);
+        });
+        function loadAssignmentNumber(n){
+            document.getElementById('id_assignmentId').value = parseInt(n);
+        }
+        function loadStudent(n){
+            document.getElementById('studId').value = n;
+            console.log(document.getElementById('studId').value)
+        }
+    </script>
+  </html>

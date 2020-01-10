@@ -1,0 +1,76 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container">
+    <div class="row">
+        <div class="col s12">
+            <div class="card">
+                <div class="card-content">
+                    <div class="row">
+                        <div class="col s12 center" style="margin-bottom: 40px;">
+                            <h4 style="margin: 0; text-decoration: underline;">Assignment Submissions</h4> 
+                        </div>
+                        <div class="col s12" style="padding:0 20px 0 20px;">
+                            <div class="row">
+                                <div class="col s3"><p>Course Name:</p></div>
+                                <div class="col s2"><p align="right">{{ courseName }}</p></div>
+                                <div class="col s3 offset-s1"><p>Assignment Description:</p></div>
+                                <div class="col s3"><p align="right">{{ assignmentName }}</p></div>
+                            </div>
+                            <div class="row">
+                                <div class="col s3"><p>Number of Submissions:</p></div>
+                                <div class="col s2"><p align="right">{{ numberOfSubmissions }}</p></div>
+                                <div class="col s3 offset-s1"><p>Number of Students:</p></div>
+                                <div class="col s3"><p align="right">{{ numberOfStudents }}</p></div>
+                            </div>
+                            <div class="row">
+                                <div class="col s3"><p>Maximum Marks:</p></div>
+                                <div class="col s2"><p align="right">{{ maximumMarks }}</p></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col s12">
+            <div class="card">
+                <div class="center card-content">
+                    <table class="respnsive-table centered striped">
+                        <thead>
+                          <tr>
+                              <th>Student Name</th>
+                              <th>Submission File</th>
+                              <th>Marks</th>
+                              <th>Change Marks</th>
+                          </tr>
+                        </thead>
+                    
+                        <tbody>
+                            {% for submission in object_list %}
+                                <tr>
+                                    <td>{{ submission.studentId.username.first_name }} {{ submission.studentId.username.last_name }}</td>
+                                    <td>
+                                        <a href="{{ MEDIA_URL }}{{submission.submissionFile}}" download><i class="material-icons center">file_download</i></a></a>                                     
+                                    </td>
+                                    <td>
+                                        <p>{{submission.marks}}</p>
+                                    </td>
+                                    <td><a href="{% url 'update_marks' pk=submission.id %}" class="btn btn-small">Update Marks</a></td>
+                                </tr>
+                            {% empty %}
+                                <tr>
+                                    <td colspan="4">No Submissions Yet</td>
+                                </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,937 @@
+ .async-hide  {  opacity:  0  !important}  (function(a,s,y,n,c,h,i,d,e){s.className+='  '+y;h.start=1*new  Date;
+
+h.end=i=function(){s.className=s.className.replace(RegExp('  ?'+y),'')};
+
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+
+})(window,document.documentElement,'async-hide','dataLayer',2000,
+
+{'GTM-TLN654':true}); (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new  Date().getTime(),event:'gtm.js'});var  f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TLN654'); DreamHost  |  Web  Hosting  For  Your  Purpose  {
+
+"@context":  "https://schema.org",
+
+"@type":  "VideoObject",
+
+"name":  "DreamHost:  Fast,  Secure,  Up",
+
+"description":  "At  DreamHost,  we  ensure  that  your  website  is  fast,  secure,  and  always  up.",
+
+"thumbnailUrl":  "http://i3.ytimg.com/vi/Ly6RgnDZ52I/maxresdefault.jpg",
+
+"uploadDate":  "2019-05-30T08:00:00+08:00",
+
+"duration":  "PT1M24S",
+
+"publisher":  {
+
+"@type":  "Organization",
+
+"name":  "DreamHost,  LLC",
+
+"logo":  {
+
+"@type":  "ImageObject",
+
+"url":  "https://www.dreamhost.com//assets/dh.logo.meta.364x60.white-bff7f73ddd4fdbdd4ff8120733cd55f0418e63a26f41ad3d83af4d2fa11ed2f4.png",
+
+"width":  364,
+
+"height":  60
+
+}
+
+}
+
+}
+ End  of  Year  Hosting  Deals:  Save  over  50%  for  a  Limited  Time Register  a  .COM  Domain  Name  for  Just  $7.99 Register  a  .TECH  Domain  Name  for  Just  $2.99 Register  a  .ONLINE  Domain  Name  for  Just  $1.99 Register  a  .ONLINE  Domain  Name  for  Just  $1.99 Affiliates Knowledge  Base Blog WordPress Hosting Websites Domains Email Grow Affiliates Knowledge  Base Blog Company Careers News Log  In Web  Hosting  CP DreamCompute  CP Remixer Webmail Get  Started Shared  Hosting MOST  POPULAR The  classic  way  to  get  all  the  essentials. Starts  at
+
+$2.59/mo
+ VPS  Hosting Isolated  resources  for  more  performance,  control  &  room  to  grow. Starts  at
+
+$10.00/mo
+ Managed  WordPress  Hosting Makes  WordPress  faster,  more  secure,  &  hassle-free. Starts  at
+
+$16.95/mo
+ Dedicated  Server  Hosting Your  very  own  server  —  the  ultimate  in  performance. Starts  at
+
+$149/mo
+ Cloud  Hosting Powerful  cloud  computing  and  object  storage  for  your  project. Starts  at  $4.50/mo
+ Hosting  Overview Quality  Hosting Made  Easy Whatever  your  website  or  application  needs,  we’ve  got  you  covered.  Enjoy  100%  in-house  support,  guaranteed  performance  and  uptime,  1-click  installs,  and  a  super-intuitive  control  panel  to  make  managing  your  websites  and  projects  easy. Limited-Time  Savings! 30%  off  Unlimited  Shared  Hosting Save  Now Trustpilot Shared  WordPress  Hosting The  classic  way  to  get  all  the  essentials. Starts  at
+
+$2.59/mo
+ Managed  WordPress  Hosting MORE  POWER Fast,  secure,  and  hassle-free  sites  to  help  you  grow. Starts  at
+
+$16.95/mo
+ WooCommerce  Hosting Everything  for  your  WordPress-powered  online  store. Starts  at
+
+$16.95/mo
+ VPS  for  WordPress Dedicated  for  WordPress Compare  All  WordPress  Solutions WordPress Done  Right With  20+  years  experience  hosting  over  1.5  million  websites,  blogs,  and  online  stores  —  there’s  no  better  place  to  power  your  WordPress  site. DreamHost  Academy  Articles What  is  WordPress? Get  Started  with  WordPress  Basics Managed  vs  Shared  WordPress  Hosting See  All  42  WordPress  Tutorials Trustpilot WP  Website  Builder NEW The  quickest  way  to  build  your  WordPress  Site. Starts  at  $2.59/mo Website  Design  Service Hire  a  pro  to  build  your  polished,  professional  site  fast. Starts  at  $249 Making  Websites Simple Whether  you’re  learning  to  build  a  site  for  the  first  time,  you  prefer  to  hire  a  designer  to  build  your  site  for  you,  or  a  seasoned  developer  building  a  s  site  from  scratch,  we  have  the  perfect  solution. Best  Articles  on  Building  Your  Site How
+
+to  Install  a  WordPress  Theme How  to
+
+Develop  a  WordPress  Theme How  to
+
+Hire  a  Custom  Theme  Developer Your  Great  Idea  Starts  with  a  Domain  Name Search .club .io .xyz .net .tech .com See  All  Domain  Extensions Limited-Time  Offer $7.99  .COM  Domains With  a  .COM  domain  name,  you  can  get  the  most  sought-after  domain  extension! More  About  Domains  at  DreamHost Find  Your  Dream  Domain A  great  idea  starts  with  a  great  domain.  Reserve  yours  today  before  someone  else  snags  it!  We  support  all  the  most  popular  extensions  and  provide  privacy  protection  standard. Helpful  Links  About  Domains  at  DreamHost FREE  Domain  Privacy  Protection How  to  Transfer  a  Domain  to  DreamHost Move  Beyond  Just  .COM  -  See  All  Extensions Email  Hosting Powerful,  simple,  reliable  email  @  your  domain. Starts  at  $1.67/mo  per  mailbox G  Suite FOR  CURRENT  CUSTOMERS Work  together  from  anywhere. Starts  at  $6/user  per  month Email Hosting  @  Your  Domain Nothing  is  more  professional  than  a  personalized  email  address  using  your  very  own  domain  name!  Our  email  plan  makes  it  easy  to  get  legit  quick. .add-cursor:hover  {
+
+cursor:  pointer;
+
+}
+ Meet  DreamHost Web  Hosting  with  Purpose We  make  sure  your  website  is  fast,  secure  &  always  up  - so  your  visitors  &  search  engines  trust  you.  Guaranteed. Get  Started It's  more  than  a  website... The  Latest  Deals  from  DreamHost .COM  Domain  Names  @  $7.99  Hosting  Starting  @  $2.59/mo  PCMag's  "Editors'  Choice"  Winner  4  Years  In  a  Row DreamHost  Helps  You  Succeed Grow  your  website  faster  by  using  DreamHost  as  your  foundation. Super  Easy  to  Use Our  custom  control  panel  is  simple  to  use  and  removes  the  headache  of  managing  your  web  hosting. Full  Featured We  do  more  than  web  hosting.  Our  tool  suite  includes  everything  you  need  to  be  successful. Fast  &  Reliable If  your  website  is  slow  or  down,  then  you  are  losing  customers,  conversion  and  search  engine  rankings. 24/7  Expert  Support Our  award-winning  US-based  experts  are  available  to  help  when  you  get  stuck  —  anytime,  day  or  night. Big  or  Small,  Rookie  or  Professional  — We  Have  a  Hosting  Solution  For  You Choose  a  platform  or  chat  with  us to  help  you  decide. Most  Popular Shared  Hosting Our  most  popular  product!  Shared  Web  Hosting  gives  you  a  free  domain  name,  fast  SSD  storage  and  email  hosting  for  your  website Starting  at:  $2.59 /mo Learn  More WordPress  Hosting Get  up  and  running  fast  with  WordPress.  Optimized  for  performance  and  preconfigured  for  easy  maintenance. Starting  at:  $2.59 /mo Learn  More New  Lower  Price:  $10/month VPS  Hosting Virtual  Private  Servers  with  ultra-fast  SSDs  and  flexibility  with  HTTP/2,  Ubuntu,  IPv6,  Nginx,  Node.js  and  more. Starting  at:  $10.00 /mo Learn  More WP  Website  Builder No  code  required!  Build  your  site  confidently  with  design  tools  that  simplify  WordPress. Starting  at:  $2.59 /mo Learn  More Dedicated  Hosting Fast  web  servers  to  run  your  applications  with  root  access  and  a  100%  Uptime  Guarantee. Starting  at:  $149 /mo Learn  More Cloud  Hosting Lightning-fast  servers  with  root  access,  SSD  storage  and  blazing-fast  networking  powered  by  open  APIs  through  OpenStack. Starting  at:  $0.0075 /hour Learn  More Compare  products  against
+
+each  other Close  Comparison
+
+Table PRODUCT GREAT  FOR... PRICE  RANGE Shared  Hosting Small  personal  sites starting  at  $2.59/mo Learn  More VPS  Hosting Hosting  small-to-medium  sized  business  sites  that  require  more  power  and  speed  than  Shared  Hosting. $10/mo  -  $80/mo Learn  More WordPress  Hosting Hosting  your  WordPress  site  and  not  having  to  worry  about  plugin  updates,  backups,  or  security  threats. starting  at  $2.59/mo Learn  More Website  Builder No  code  required!  Build  your  site  confidently  with  design  tools  that  simplify  WordPress. starting  at  $2.59/mo Learn  More Dedicated  Hosting LARGE  websites  and  for  users  who  need  root  access. $149/mo  -  $379/mo Learn  More Cloud  Hosting Creating  simple  cloud  servers  or  advanced  network  configurations. $0.0075/hour  -  $0.08/hour Learn  More Or  Choose  a  Domain Find  your  domain  name Search $0.99 $25.99 $0.89 $10.99 $2.99 $7.99 "I've  always  appreciated  how  easy  it  is  -  how  simple  it  is.  Compared  to  other  sites,  it's  'buy  this,  upgrade  to  this'.  With  DreamHost  it's  been  a  clean  and  honest  experience.  There's  no  massive  marketing  stuff  all  over  the  place." Peter  K  |  J-Cakes.com Customer  Since  2000 "Our  clients  and  customers  count  on  us  to  provide  feature-rich  eCommerce  websites,  and  with  DreamHost  Dedicated  Hosting  we  have  confidence  that  our  sites  are  secure,  fast,  and  reliable.  Dedicated  Hosting  has  been  an  essential  part  of  our  growth  and  success." Laura  Peters  |  Funnychord.com Customer  Since  2015 "I  love  that  DreamHost  has  one-click  WordPress  installs,  which  make  setup  a  breeze!  The  interface  is  the  most  user-friendly  platform  I've  ever  worked  with  after  10-plus  years  of  trying  out  many  other  competitors.  I'm  a  happy,  loyal,  lifelong  customer." Jennifer  Emerling  |  Jennemerlingweddings.com Customer  Since  2008 "I've  been  a  DreamHost  customer  ever  since  I  first  started  doing  web  design.  Their  customer  service  is  outstanding  and  their  hosting  is  super  reliable  at  an  affordable  price." Jeremiah  S  |  Typewolf.com Customer  Since  2011 DreamHost  Helps  You  Get  There.
+ What  Makes  DreamHost  So  Different? With  nearly  20  years  of  hosting  experience,  we  focus  on  successful  sites  for  web  designers,  developers,  bloggers  and  online  businesses.  Our  community  and  support  helps  you  create  a  website  fast  and
+
+easy! Employee  Owned Being  employee-owned  keeps  us  focused  on  the  unique  needs  of  our  users,  and  we  wouldn't  have  it  any  other  way.  We're  committed  to  helping  everyone  find  success  online. Passion  for  Privacy We  believe  in  everyone's  right  to  privacy,  and  we  back  that  with  a  strong  anti-spam  policy  and  free  WHOIS  privacy. Commitment  to  Security Our  many  security  features  include  Multi  Factor  Authentication,  auto-enabled  sFTP  and  free  secure  hosting  with  Let's  Encrypt. Embrace  Open  Source We  strongly  believe  in  providing  open  source  solutions  to  our  customers  whenever  possible. 24/7  Support Our  in-house  team  members  do  their  best  to  provide  one-touch  resolution,  making  you  feel  like  a  part  of  our  family. 100%  Uptime  Guaranteed We  guarantee  it  so  you  don't  have  to  worry  about  it. Frequently  Asked  Questions What  is  Web  Hosting? Web  hosting  allows  businesses,  organizations,  and  individuals  to  make  their  websites  or  apps  visible  on  the  internet.  Whether  they're  using  a  dedicated  server,  or  sharing  resources,  every  website  is  hosted  on  a  server.  The  only  way  for  a  website  to  be  visible  on  the  internet  is  if  it's  hosted  by  a  web  hosting  service  provider,  also  known  as  a  web  host.  In  order  to  find  a  website,  you  type  the  domain  name  (or  URL)  into  your  browser.  Your  computer  will  then  connect  to  the  server  where  the  website  is  hosted,  and  the  webpage  is  delivered  onto  your  screen. What  Are  the  Different  Types  of  Web  Hosting  Products  DreamHost  Offers? DreamHost  offers  several  different  types  of  hosting  plans  that  work  for  all  website  hosting  needs.  Shared  Hosting: Shared  hosting  is  the  most  affordable  option,  but  it  does  have  its  limitations.  Shared  hosting  customers  share  the  server's  resources  with  other  customers.  If  another  website  on  the  same  server  is  receiving  large  amounts  of  traffic,  or  using  a  lot  of  the  server's  limited  resources,  it's  possible  that  your  site  may  run  slower  as  a  result. While  DreamHost  works  hard  to  make  sure  all  sites  on  a  shared  server  never  disrupt  other  sites,  this  is  always  a  possibility  due  to  the  nature  of  the  product.  That's  why  we  recommend  that  you  look  at  our  more  powerful  options  if  you're  expecting  to  experience  high  traffic  levels  on  your  site. What  can  I  host  on  shared  hosting? Shared  hosting  is  perfect  for  blogs,  portfolios,  personal/business  sites,  and  database-driven  sites. Learn  more  about  shared  hosting WordPress  Hosting  (DreamPress) DreamPress  is  DreamHost's  managed  WordPress  hosting.  It's  a  scalable  service  that  allows  users  to  manage  their  WordPress  sites  worry-free  via  automatic  updates,  caching,  daily  backups,  and  a  content  delivery  network  (CDN). Learn  more  about  DreamPress VPS DreamHost's  Virtual  Private  Server  (VPS)  hosting  is  a  premium  solution  that  runs  faster  than  our  shared  hosting.  It's  available  as  an  add-on  to  an  existing  DreamHost  plan,  but  also  as  a  standalone  service. DreamHost's  VPSs  use  Linux-VServer  to  create  a  "virtual  machine"  that  protects  a  user's  resources  from  others  on  the  same  physical  machine.  This  allows  for  a  more  powerful  solution. Shared  vs.  VPS  Hosting On  a  shared  server,  resources  are  shared  by  other  users.  On  a  VPS,  these  resources  are  more  isolated  which  improves  performance  and  helps  to  maintain  stability.  You  also  have  the  ability  to  control  how  much  RAM  your  server  uses. What  can  I  host  on  a  VPS? A  virtual  private  server  is  ideal  for  websites  that  require  more  resources  than  a  shared  server  can  provide,  but  may  not  need  the  full  power  of  a  dedicated  server.  VPS  is  ideal  for  businesses,  ecommerce  websites,  designers,  and  developers  that  need  unhindered  performance. Learn  more  about  VPS Dedicated A  dedicated  server  is  a  server  that  only  contains  your  files  on  it.  You  also  get  full  root  access:  a  major  benefit  if  you're  looking  to  customize  your  server  to  fit  your  specific  needs.  Please  note  that  DreamHost  support  cannot  assist  if  any  errors  occur  as  a  result  of  a  customization. Another  benefit  of  a  dedicated  server  is  that  your  MySQL  server  is  on  the  same  server,  allowing  for  faster  access.  With  all  other  hosting  plans  your  MySQL  database  is  on  a  separate  database  server. What  can  I  host  on  a  Dedicated  server? Dedicated  servers  are  fully-managed,  business  class  servers.  They  are  perfect  for  resource-heavy  apps  and  giant  websites. Learn  more  about  dedicated  hosting Cloud DreamHost  offers  two  different  cloud  hosting  products. Object  Storage DreamObjects  is  a  cost-effective  cloud  storage  service,  which  you  can  use  to  host  static  data  for  your  websites,  store  backups,  or  develop  the  next  big  thing.  You  can  access  DreamObjects  in  your  panel  using  the  built-in  interface,  programmatically  via  standard  APIs,  or  with  a  growing  library  of  applications.  DreamObjects  is  compatible  with  the  Amazon  S3  API. Learn  more  about  compatible  applications  with  DreamObjects Learn  more  about  DreamObjects  here Cloud  Computing DreamCompute  is  a  highly  scalable  cloud  computing  service  built  to  power: Web  and  mobile  applications Digital  media  and  e-commerce  websites Big  data Testing  and  development  environments All  instances  can  be  managed  through  the  DreamCompute's  dashboard  built  off  of  OpenStack's  Horizon . How  Do  I  Buy  a  Domain  Name? Buying  a  domain  name  with  DreamHost  is  simple  and  comes  with  features  that  a  lot  of  other  hosts  don't  offer.  Use  our  domain  search  tool  to  buy  your  desired  domain  name;  we'll  let  you  know  if  someone  else  has  already  purchased  it,  and  will  serve  up  alternative  versions  that  are  available.  After  buying  your  domain  name  with  DreamHost,  you'll  also  receive: +  Free  WHOIS  Privacy  Protection  (which  keeps  your  website  registration  details  private) +  auto-renewals  (so  you  don't  have  to  worry  about  a  lapse  in  ownership) +  unlimited  subdomains  (like  blog.yoursite.com,  or  mexico.yoursite.com,  for  example) +  domain  setting  controls  at  your  fingertips  (like  MX  records,  CNAME,  etc.) How  Do  I  Migrate  Over  to  DreamHost? If  you  want  to  move  your  web  hosting  to  DreamHost,  the  first  step  is  to  create  a  DreamHost  account  –  you  can  do  that  from  any  of  our  product  pages  ( Shared  Hosting ,  VPS ,  Dedicated ,  DreamPress )  During  the  signup  process,  select  the  option  to  add  your  current  domain  to  your  new  account  –  don't  worry,  this  does  NOT  affect  your  current  live  website!  Next,  you'll  need  to  backup  your  website  files  and  upload  them  to  DreamHost.  You  can  learn  more  about  this  here . Once  you've  migrated  your  website  to  DreamHost's  servers,  you'll  need  to  check  the  site  to  confirm  that  it  looks  and  functions  just  as  intended.  If  everything  looks  great,  you'll  need  to  point  your  DNS  to  DreamHost  so  people  know  where  to  find  you!  If  this  sounds  complicated,  don't  worry.  We  have  some  documentation  here on  how  it's  done. Have  some  questions  before  you  get  started?  No  worries.  Get  in  touch with  us  and  we'll  be  happy  to  help. Can  You  Help  Me  Understand  More  About  WordPress? Definitely.  We  have  some  awesome  WordPress  guides that  can  help  answer  most  of  your  questions.  If  you  get  stuck,  we  are  always  here  to  help  as  well. Does  DreamHost  Offer  an  “Email  Only”  Hosting  Plan? Yes!  DreamHost  offers  professional  email  @yourdomain,  with  25GB  storage,  mobile  and  desktop  sync,  ad-free  webmail  —  as  well  as  spam,  virus,  and  phishing  filters.  Promote  your  site  with  every  message  you  send!  Learn  More Can  I  Talk  to  Support  Even  If  I'm  Not  a  Current  Customer? Of  course!  Visit  our  support  page and  select  'Sales'.  Or,  if  you're  on  our  site  between  8-4  PM  PST,  you  can  chat  with  us  from  any  of  our  product  pages  ( Shared  Hosting ,  VPS ,  Dedicated ,  DreamPress ). Need  Some  Help? Whether  you’re  stuck  or  just  want  some  tips  on  where  to  start,  hit  up  our  experts  anytime. Sales  Chat :  MON-FRI  8AM-4PM  PT  |  Customer  Support  Chat :  Every  Day  5:30AM–9:30PM  PT Chat  With  Us Send  us  an  Email Products WordPress  Hosting Website  Builder Shared  Hosting Virtual  Private  Servers Dedicated  Servers Domain  Names Monthly  Web  Hosting Company About Affiliates Blog Careers Community News Green  Hosting Partners Press  Releases Reviews Legal Legal  Information Privacy  Policy Report  Abuse Terms  of  Service WHOIS  Lookup Support Help  us  route  you  to  the  best  support  channel  available Existing  Customer Sales  /  Can't  Login Contact Knowledge  Base Forums System  Status Login Web  Hosting DreamCompute Website  Builder Webmail Copyright  ©  2019  DreamHost,  LLC. var  promoUrl  =  "https://signup.dreamhost.com/?p=";
+ {
+
+"@context":  "http://schema.org",
+
+"@type":  "Corporation",
+
+"name":  "DreamHost,  LLC",
+
+"description":  "DreamHost  is  the  leader  in  WordPress  hosting,  shared  web  hosting,  vps  hosting,  dedicated  hosting,  cloud  storage  and  cloud  computing.",
+
+"url":  "https://www.dreamhost.com/",
+
+"logo":  "https://www.dreamhost.com/blog/wp-content/uploads/2014/08/blog-dh-logo-final.jpgsor",
+
+"sameAs":  [
+
+"https://www.facebook.com/DreamHost/",
+
+"https://twitter.com/dreamhost",
+
+"https://www.instagram.com/dreamhost/",
+
+"https://www.youtube.com/user/dreamhostusa",
+
+"https://www.linkedin.com/company/dreamhost"
+
+]
+
+}
+ .async-hide  {  opacity:  0  !important}  (function(a,s,y,n,c,h,i,d,e){s.className+='  '+y;h.start=1*new  Date;
+
+h.end=i=function(){s.className=s.className.replace(RegExp('  ?'+y),'')};
+
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+
+})(window,document.documentElement,'async-hide','dataLayer',2000,
+
+{'GTM-TLN654':true}); (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new  Date().getTime(),event:'gtm.js'});var  f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TLN654'); End  of  Year  Deals  –  DreamHost End  of  Year  Hosting  Deals:  Save  over  50%  for  a  Limited  Time Register  a  .COM  Domain  Name  for  Just  $7.99 Register  a  .TECH  Domain  Name  for  Just  $2.99 Register  a  .ONLINE  Domain  Name  for  Just  $1.99 Register  a  .ONLINE  Domain  Name  for  Just  $1.99 Affiliates Knowledge  Base Blog WordPress Hosting Websites Domains Email Grow Affiliates Knowledge  Base Blog Company Careers News Log  In Web  Hosting  CP DreamCompute  CP Remixer Webmail Get  Started Shared  Hosting MOST  POPULAR The  classic  way  to  get  all  the  essentials. Starts  at
+
+$2.59/mo
+ VPS  Hosting Isolated  resources  for  more  performance,  control  &  room  to  grow. Starts  at
+
+$10.00/mo
+ Managed  WordPress  Hosting Makes  WordPress  faster,  more  secure,  &  hassle-free. Starts  at
+
+$16.95/mo
+ Dedicated  Server  Hosting Your  very  own  server  —  the  ultimate  in  performance. Starts  at
+
+$149/mo
+ Cloud  Hosting Powerful  cloud  computing  and  object  storage  for  your  project. Starts  at  $4.50/mo
+ Hosting  Overview Quality  Hosting Made  Easy Whatever  your  website  or  application  needs,  we’ve  got  you  covered.  Enjoy  100%  in-house  support,  guaranteed  performance  and  uptime,  1-click  installs,  and  a  super-intuitive  control  panel  to  make  managing  your  websites  and  projects  easy. Limited-Time  Savings! 30%  off  Unlimited  Shared  Hosting Save  Now Trustpilot Shared  WordPress  Hosting The  classic  way  to  get  all  the  essentials. Starts  at
+
+$2.59/mo
+ Managed  WordPress  Hosting MORE  POWER Fast,  secure,  and  hassle-free  sites  to  help  you  grow. Starts  at
+
+$16.95/mo
+ WooCommerce  Hosting Everything  for  your  WordPress-powered  online  store. Starts  at
+
+$16.95/mo
+ VPS  for  WordPress Dedicated  for  WordPress Compare  All  WordPress  Solutions WordPress Done  Right With  20+  years  experience  hosting  over  1.5  million  websites,  blogs,  and  online  stores  —  there’s  no  better  place  to  power  your  WordPress  site. DreamHost  Academy  Articles What  is  WordPress? Get  Started  with  WordPress  Basics Managed  vs  Shared  WordPress  Hosting See  All  42  WordPress  Tutorials Trustpilot WP  Website  Builder NEW The  quickest  way  to  build  your  WordPress  Site. Starts  at  $2.59/mo Website  Design  Service Hire  a  pro  to  build  your  polished,  professional  site  fast. Starts  at  $249 Making  Websites Simple Whether  you’re  learning  to  build  a  site  for  the  first  time,  you  prefer  to  hire  a  designer  to  build  your  site  for  you,  or  a  seasoned  developer  building  a  s  site  from  scratch,  we  have  the  perfect  solution. Best  Articles  on  Building  Your  Site How
+
+to  Install  a  WordPress  Theme How  to
+
+Develop  a  WordPress  Theme How  to
+
+Hire  a  Custom  Theme  Developer Your  Great  Idea  Starts  with  a  Domain  Name Search .club .io .xyz .net .tech .com See  All  Domain  Extensions Limited-Time  Offer $7.99  .COM  Domains With  a  .COM  domain  name,  you  can  get  the  most  sought-after  domain  extension! More  About  Domains  at  DreamHost Find  Your  Dream  Domain A  great  idea  starts  with  a  great  domain.  Reserve  yours  today  before  someone  else  snags  it!  We  support  all  the  most  popular  extensions  and  provide  privacy  protection  standard. Helpful  Links  About  Domains  at  DreamHost FREE  Domain  Privacy  Protection How  to  Transfer  a  Domain  to  DreamHost Move  Beyond  Just  .COM  -  See  All  Extensions Email  Hosting Powerful,  simple,  reliable  email  @  your  domain. Starts  at  $1.67/mo  per  mailbox G  Suite FOR  CURRENT  CUSTOMERS Work  together  from  anywhere. Starts  at  $6/user  per  month Email Hosting  @  Your  Domain Nothing  is  more  professional  than  a  personalized  email  address  using  your  very  own  domain  name!  Our  email  plan  makes  it  easy  to  get  legit  quick. .domain-box:hover{
+
+cursor:  default  !important;
+
+border:  1px  solid  #2975e4  !important;
+
+}
+
+.domain-tld  .domain-tld-price2  {
+
+background:#0073EC;
+
+}
+
+.domain-tld:hover  .domain-tld-price2:hover  {
+
+background:#0073EC;
+
+}
+ Grow  with  DreamHost  in  2020 The  best  deals  on  hosting  and  domain  names  to  make  2020  your  year  for  growing  your  online  presence! Hosting  Plans  Starting  at  $2.59/mo Domain  Deals  For  Every  Site 24/7  In-House  Support 100%  Uptime  Guaranteed Hosting  Deals  for  a  Limited  Time Clear  pricing  backed  by  our  unbeatable  97-Day  Money-Back  Guarantee. Monthly 1  Year 3  Year Shared  Starter A  great  place  to  start!  Shared  hosting  with  an  entry  level  price  for  new  sites,  including  WordPress. Starting  at $3.95/mo
+ $2.59/mo
+ $4.95/mo
+ SAVE
+
+20%  Over  Monthly
+ SAVE
+
+47%  Over  Monthly
+ No  Commitments  or  Contracts
+ 1 Website
+ Free  Domain included
+ FREE  Registration  Must  be  Used  Within  the  First  Month. In  order  to  qualify  for  one  free  domain  registration  credit,  you  must  sign  up  for  an  annual  Unlimited  Shared  or  Starter  plan  or  annual  DreamPress  plan  (monthly  Shared  or
+
+monthly  DreamPress  plans  do  not  apply).  This  free  credit  is  NOT  available  under  any  other  hosting  plan.  You  must  also  use  the  free  registration  within  the  first  month  of  your  annual  Shared/DreamPress  plan.  If  you
+
+do  not  use  the  free  registration  within  the  first  month,  then  it's  no  longer  available  to  use. Free  domain  registration  credit  is  only  valid  on  the  following  extensions:  .BLOG,  .CLUB,  .COM,  .INFO,  .NET,  .ONLINE,  .ORG  ,  .SHOP,  .TECH,  .XYZ Read  the  full  Terms  &  Conditions ? Free  Domain included
+ FREE  Registration  Must  be  Used  Within  the  First  Month. In  order  to  qualify  for  one  free  domain  registration  credit,  you  must  sign  up  for  an  annual  Unlimited  Shared  or  Starter  plan  or  annual  DreamPress  plan  (monthly  Shared  or
+
+monthly  DreamPress  plans  do  not  apply).  This  free  credit  is  NOT  available  under  any  other  hosting  plan.  You  must  also  use  the  free  registration  within  the  first  month  of  your  annual  Shared/DreamPress  plan.  If  you
+
+do  not  use  the  free  registration  within  the  first  month,  then  it's  no  longer  available  to  use. Free  domain  registration  credit  is  only  valid  on  the  following  extensions:  .BLOG,  .CLUB,  .COM,  .INFO,  .NET,  .ONLINE,  .ORG  ,  .SHOP,  .TECH,  .XYZ Read  the  full  Terms  &  Conditions ? Buy  a  .COM for  $7.99
+ Unlimited Traffic Unlimited  Traffic We  don’t  track  bandwidth  or  traffic,  so  you  never  have  to  worry  about  pesky  overage  fees. ? WordPress  Pre-Installed WordPress  Pre-Installed We  install  WordPress  so  you  don't  have  to. ? New WP  Website  Builder
+ WP  Website  Builder The  simplest  way  to  create  a  beautiful  WordPress  website.  Get  your  idea  online  today  with  an  easy  site  creation  wizard,  free  professional  templates,  and  a  drag-and-drop
+
+editor.  ? Fast SSD  Storage
+ Free SSL  Certificate
+ Add  Email as  low  as  $1.67/mo
+ 3  Year,  1  Year  &  Monthly  Plans
+ Sign  Up  Now Sign  Up  Now Sign  Up  Now Shared  Unlimited Great  for  multiple  websites,  including  WordPress,  and  anyone  who  wants  email  hosting  @  your  domain. Starting  at $5.95/mo
+ $4.95/mo
+ $10.95/mo
+ SAVE
+
+45%  Over  Monthly
+ SAVE
+
+54%  Over  Monthly
+ Cancel  Anytime
+ Unlimited Websites
+ Free  Domain included
+ FREE  Registration  Must  be  Used  Within  the  First  Month. In  order  to  qualify  for  one  free  domain  registration  credit,  you  must  sign  up  for  an  annual  Unlimited  Shared  plan  or  annual  DreamPress  plan  (monthly  Shared  or  monthly
+
+DreamPress  plans  do  not  apply).  This  free  credit  is  NOT  available  under  any  other  hosting  plan.  You  must  also  use  the  free  registration  within  the  first  month  of  your  annual  Shared/DreamPress  plan.  If  you  do  not
+
+use  the  free  registration  within  the  first  month,  then  it's  no  longer  available  to  use. Read  the  full  Terms  &  Conditions ? Free  Domain included
+ FREE  Registration  Must  be  Used  Within  the  First  Month. In  order  to  qualify  for  one  free  domain  registration  credit,  you  must  sign  up  for  an  annual  Unlimited  Shared  plan  or  annual  DreamPress  plan  (monthly  Shared  or  monthly
+
+DreamPress  plans  do  not  apply).  This  free  credit  is  NOT  available  under  any  other  hosting  plan.  You  must  also  use  the  free  registration  within  the  first  month  of  your  annual  Shared/DreamPress  plan.  If  you  do  not
+
+use  the  free  registration  within  the  first  month,  then  it's  no  longer  available  to  use. Read  the  full  Terms  &  Conditions ? Buy  a  .COM for  $7.99
+ Unlimited Traffic Unlimited  Traffic We  don’t  track  bandwidth  or  traffic,  so  you  never  have  to  worry  about  pesky  overage  fees. ? WordPress  Pre-Installed WordPress  Pre-Installed We  install  WordPress  so  you  don't  have  to. ? New WP  Website  Builder
+ WP  Website  Builder The  simplest  way  to  create  a  beautiful  WordPress  website.  Get  your  idea  online  today  with  an  easy  site  creation  wizard,  free  professional  templates,  and  a  drag-and-drop
+
+editor.  ? Fast SSD  Storage
+ Free SSL  Certificate
+ Unlimited Email  @  Your  Domain
+ 3  Year,  1  Year  &  Monthly  Plans
+ Sign  Up  Now Sign  Up  Now Sign  Up  Now Compare  Products Instant  WordPress  Setup We  install  WordPress  for  you!  On  plans  supporting  multiple  sites,  use  our  effortless  1-click  installer  to  make  more  WordPress  instances  in  seconds. Auto  WordPress  Updates WordPress  comes  preconfigured  and  we  handle  all  WordPress  updates,  freeing  you  to  focus  on  what  matters  most  —  creating  awesome  content. 24/7  Award-Winning  Support Our  in-house  and  U.S-based  experts  are  on  standby  for  friendly,  pro-level  support  24/7,  365.  No  question  is  too  simple  or  too  complex.  2017  Best  Support  by  PCMag.com. FREE  Domain  Free  Domain  Disclaimer In  order  to  qualify  for  a  free,  one-year  domain  registration,  sign  up  for  an  annual  plan  and  use  it  within  the  first  month  of  signing
+
+up.  Monthly  plans  do  not  apply. Offer  valid  for  .BLOG,  .CLUB,  .COM,  .INFO,  .NET,  .ONLINE,  .ORG  ,  .SHOP,  .TECH,  .XYZ  TLDs. Read  full  Terms  of  Service  here . ? Claim  your  very  own  piece  of  internet  real  estate  and  give  your  site  a  home  with  a  domain  name  from  DreamHost.  This  one’s  on  us! FREE  Privacy  Protection Unlike  most  web  hosting  providers,  DreamHost  does  not  charge  any  extra  fees  to  mask  your  personal  information.  Safeguarding  your  personal  data  is  always  included. FREE  SSL  Certificate We  provide  a  free  'Let's  Encrypt'  SSL  certificate  to  protect  your  site  with  HTTPS  —  encrypting  traffic  and  instantly  boosting  SEO  with  Google. Advanced,  Easy-to-Use  Panel Get  admin  access  to  everything  needed  to  power  your  website  full  throttle.  Easily  create  new  email  accounts,  add  Let's  Encrypt  SSL,  forward  domains,  add  users,  and  install  WordPress  in  seconds. FREE  Email  Hosting  FREE  Email  Hosting  Disclaimer Free  email  hosting  is  not  available  for  Starter  Shared,  but  can  be  added  for  $1.67/mo  per  mailbox  on  a  yearly  email  plan. ? Look  professional  with  a  custom,  personalized  email  address  for  your  domain.  With  DreamHost  hosting,  you  can  promote  your  website  and  make  a  name  for  yourself  with  every  email  you  send. Automated  Backups The  single  most  important  thing  you  can  do  to  keep  your  website  safe?  Back  it  up.  DreamHost  makes  this  easy  —  we  create  automatic  backups  of  your  WordPress  website  daily. Domain  Names  for  Everyone These  deals  won't  last  long! Fetching  results… Featured  TLD $7.99  (normally  $15.99) treat  visitors  &  customers  like  members $ 0.99  (normally  $12.95) short  and  memorable,  popular  in  tech $ 25.99  (normally  $39.95) great  for  startups  and  businesses  of  any  size $ 0.89  (normally  $12.99) short  and  memorable,  popular  in  tech $ 10.99  (normally  $14.95) stand  out  in  search  results  and  in  the  tech  space $ 2.99  (normally  $49.95) perfect  for  anyone  with  something  to  sell $ 2.99  (normally  $29.95) a  personal  domain,  that's  all  about  you $ 2.99  (normally  $32.95) for  designers  and  design  firms  alike $ 10.99  (normally  $49.95) flexible  and  memorable $ 1.99  (normally  $29.95) easy  to  search,  share  and  remember $ 4.99  (normally  $24.95) short,  memorable,  and  flexible $ 15.99  (normally  $26.95) corner  the  market  for  your  brand $ 13.95  (normally  $15.99) Pick  the  Shared  Hosting  Plan  That’s  Best  for  You Monthly 1  Year 3  Year #  of  Websites
+ Visits  Per  Month (Cached) Visits  served  from  cache  are  not  metered  on  any  DreamHost  plans. ? Bandwidth
+ Email  Accounts  @  Your  Domain
+ FREE  Domain  Included
+ In  order  to  qualify  for  a  free,  one-year  domain  registration,  sign  up  for  an  annual  Shared  Starter  or  Shared  Unlimited  plan  and  use  it  within  the  first  month  of  signing  up.  Monthly  plans  do  not  apply.  Offer  valid  for  specific  TLDs  listed  in  the  article  below. Read  More ? Site  Storage
+ For  information  on  our  Unlimited  Policy,  click  the  link  below. Read  More ? Subdomains
+ FTP/SFTP/Shell  Users
+ MySQL  Databases
+ SSD  Storage
+ WordPress  Pre-installed
+ New WP  Website  Builder
+ The  simplest  way  to  create  a  beautiful  WordPress  website.  Get  your  idea  online  today  with  an  easy  site  creation  wizard,  free  professional  templates,  and  a  drag-and-drop  editor.  ? FREE  SSL  Certificate
+ Ensure  a  secure  connection  when  visitors  are  on  your  site  with  a  trusted  and  free  SSL  certificate  from  Let's  Encrypt. ? Automatic  WordPress  Updates: Core  &  Security Automated  Daily  Backups
+ Free  Domain  Privacy
+ Custom-built  Control  Panel
+ Advanced  Features: SFTP,  Shell  Access,  WP-CLI  &  more! 24/7  Ticket  Support
+ Live  Chat  Support
+ Phone  Support  Callbacks
+ Money-back  Guarantee
+ DreamHost  offers  a  full  refund  on  Shared  hosting  fees  if  your  plan  is  canceled  within  the  first  97  days  of  opening  the  account. ? Shared  Starter $2.59 /mo Get  Shared  Starter $3.95 /mo Get  Shared  Starter $4.95 /mo Get  Shared  Starter Shared Unlimited $4.95
+ /mo Get  Shared  Unlimited  $5.95
+ /mo Get  Shared  Unlimited  $10.95
+ /mo Get  Shared  Unlimited  1
+ Unlimited
+ Unmetered
+ Unmetered
+ Unmetered
+ Unmetered
+ Available  for  Purchase
+ Included
+ — — 50GB
+ Unlimited
+ 5
+ Unlimited
+ 6
+ Unlimited
+ 6
+ Unlimited
+ Available
+ Pre-installed
+ Available
+ Available
+ Back  to  Plans Need  Some  Help? Whether  you’re  stuck  or  just  want  some  tips  on  where  to  start,  hit  up  our  experts  anytime. Sales  Chat :  MON-FRI  8AM-4PM  PT  |  Customer  Support  Chat :  Every  Day  5:30AM–9:30PM  PT Chat  With  Us Send  us  an  Email Products WordPress  Hosting Website  Builder Shared  Hosting Virtual  Private  Servers Dedicated  Servers Domain  Names Monthly  Web  Hosting Company About Affiliates Blog Careers Community News Green  Hosting Partners Press  Releases Reviews Legal Legal  Information Privacy  Policy Report  Abuse Terms  of  Service WHOIS  Lookup Support Help  us  route  you  to  the  best  support  channel  available Existing  Customer Sales  /  Can't  Login Contact Knowledge  Base Forums System  Status Login Web  Hosting DreamCompute Website  Builder Webmail Copyright  ©  2019  DreamHost,  LLC. var  promoUrl  =  "https://signup.dreamhost.com/?p=";
+ {
+
+"@context":  "http://schema.org",
+
+"@type":  "Corporation",
+
+"name":  "DreamHost,  LLC",
+
+"description":  "DreamHost  is  the  leader  in  WordPress  hosting,  shared  web  hosting,  vps  hosting,  dedicated  hosting,  cloud  storage  and  cloud  computing.",
+
+"url":  "https://www.dreamhost.com/",
+
+"logo":  "https://www.dreamhost.com/blog/wp-content/uploads/2014/08/blog-dh-logo-final.jpgsor",
+
+"sameAs":  [
+
+"https://www.facebook.com/DreamHost/",
+
+"https://twitter.com/dreamhost",
+
+"https://www.instagram.com/dreamhost/",
+
+"https://www.youtube.com/user/dreamhostusa",
+
+"https://www.linkedin.com/company/dreamhost"
+
+]
+
+}
+ .async-hide  {  opacity:  0  !important}  (function(a,s,y,n,c,h,i,d,e){s.className+='  '+y;h.start=1*new  Date;
+
+h.end=i=function(){s.className=s.className.replace(RegExp('  ?'+y),'')};
+
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+
+})(window,document.documentElement,'async-hide','dataLayer',2000,
+
+{'GTM-TLN654':true}); (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new  Date().getTime(),event:'gtm.js'});var  f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TLN654'); Register  Your  New  .COM  Domain  Name  –  DreamHost End  of  Year  Hosting  Deals:  Save  over  50%  for  a  Limited  Time Register  a  .COM  Domain  Name  for  Just  $7.99 Register  a  .TECH  Domain  Name  for  Just  $2.99 Register  a  .ONLINE  Domain  Name  for  Just  $1.99 Register  a  .ONLINE  Domain  Name  for  Just  $1.99 Affiliates Knowledge  Base Blog WordPress Hosting Websites Domains Email Grow Affiliates Knowledge  Base Blog Company Careers News Log  In Web  Hosting  CP DreamCompute  CP Remixer Webmail Shared  Hosting MOST  POPULAR The  classic  way  to  get  all  the  essentials. Starts  at
+
+$2.59/mo
+ VPS  Hosting Isolated  resources  for  more  performance,  control  &  room  to  grow. Starts  at
+
+$10.00/mo
+ Managed  WordPress  Hosting Makes  WordPress  faster,  more  secure,  &  hassle-free. Starts  at
+
+$16.95/mo
+ Dedicated  Server  Hosting Your  very  own  server  —  the  ultimate  in  performance. Starts  at
+
+$149/mo
+ Cloud  Hosting Powerful  cloud  computing  and  object  storage  for  your  project. Starts  at  $4.50/mo
+ Hosting  Overview Quality  Hosting Made  Easy Whatever  your  website  or  application  needs,  we’ve  got  you  covered.  Enjoy  100%  in-house  support,  guaranteed  performance  and  uptime,  1-click  installs,  and  a  super-intuitive  control  panel  to  make  managing  your  websites  and  projects  easy. Limited-Time  Savings! 30%  off  Unlimited  Shared  Hosting Save  Now Trustpilot Shared  WordPress  Hosting The  classic  way  to  get  all  the  essentials. Starts  at
+
+$2.59/mo
+ Managed  WordPress  Hosting MORE  POWER Fast,  secure,  and  hassle-free  sites  to  help  you  grow. Starts  at
+
+$16.95/mo
+ WooCommerce  Hosting Everything  for  your  WordPress-powered  online  store. Starts  at
+
+$16.95/mo
+ VPS  for  WordPress Dedicated  for  WordPress Compare  All  WordPress  Solutions WordPress Done  Right With  20+  years  experience  hosting  over  1.5  million  websites,  blogs,  and  online  stores  —  there’s  no  better  place  to  power  your  WordPress  site. DreamHost  Academy  Articles What  is  WordPress? Get  Started  with  WordPress  Basics Managed  vs  Shared  WordPress  Hosting See  All  42  WordPress  Tutorials Trustpilot WP  Website  Builder NEW The  quickest  way  to  build  your  WordPress  Site. Starts  at  $2.59/mo Website  Design  Service Hire  a  pro  to  build  your  polished,  professional  site  fast. Starts  at  $249 Making  Websites Simple Whether  you’re  learning  to  build  a  site  for  the  first  time,  you  prefer  to  hire  a  designer  to  build  your  site  for  you,  or  a  seasoned  developer  building  a  s  site  from  scratch,  we  have  the  perfect  solution. Best  Articles  on  Building  Your  Site How
+
+to  Install  a  WordPress  Theme How  to
+
+Develop  a  WordPress  Theme How  to
+
+Hire  a  Custom  Theme  Developer Your  Great  Idea  Starts  with  a  Domain  Name Search .club .io .xyz .net .tech .com See  All  Domain  Extensions Limited-Time  Offer $7.99  .COM  Domains With  a  .COM  domain  name,  you  can  get  the  most  sought-after  domain  extension! More  About  Domains  at  DreamHost Find  Your  Dream  Domain A  great  idea  starts  with  a  great  domain.  Reserve  yours  today  before  someone  else  snags  it!  We  support  all  the  most  popular  extensions  and  provide  privacy  protection  standard. Helpful  Links  About  Domains  at  DreamHost FREE  Domain  Privacy  Protection How  to  Transfer  a  Domain  to  DreamHost Move  Beyond  Just  .COM  -  See  All  Extensions Email  Hosting Powerful,  simple,  reliable  email  @  your  domain. Starts  at  $1.67/mo  per  mailbox G  Suite FOR  CURRENT  CUSTOMERS Work  together  from  anywhere. Starts  at  $6/user  per  month Email Hosting  @  Your  Domain Nothing  is  more  professional  than  a  personalized  email  address  using  your  very  own  domain  name!  Our  email  plan  makes  it  easy  to  get  legit  quick. .embed-responsive  {
+
+position:  relative;
+
+display:  block;
+
+height:  0;
+
+padding:  0;
+
+overflow:  hidden;
+
+}
+
+.embed-responsive  .embed-responsive-item,
+
+.embed-responsive  iframe,
+
+.embed-responsive  embed,
+
+.embed-responsive  object,
+
+.embed-responsive  video  {
+
+position:  absolute;
+
+top:  0;
+
+bottom:  0;
+
+left:  0;
+
+width:  100%;
+
+height:  100%;
+
+border:  0;
+
+}
+
+.embed-responsive-16by9  {
+
+padding-bottom:  56.25%;
+
+}
+ Buy  .com Domains Just  for  the  1st  year! Sale  price  1st  year  only.  Renewals  charged  at  regular  rate  of  . Register  a  .com Domain  for  Just  /year! Find  your  perfect  .com domain  name Fetching  results… Why  register  a  .com domain  name? It's  the  original  and  still  most  sought-after  domain  extension. When  people  think  of  the  internet,  they  think  .COM.  It's  the  domain  that  started  it  all,  and  for  over  three  decades  now,  .com  has  remained  the  most  popular  and  most  credible  way  to  end  your  URL.  It  legitimizes  your  website. With  hundreds  of  new  domain  extensions  entering  the  market,  who  can  keep  track  of  them  all?  The  fact  is,  most  users  expect  your  site  to  end  in  a  .COM  --  they'll  try  it  before  any  other  extension.  And  don't  disregard  typos!  Register  common  misspellings  of  your  primary  domain  name  to  guard  against  cybersquatters  who  try  to  redirect  traffic  to  their  own  site. It's  perfect  for… …any  and  all  websites.  .COM  is  the  domain  name  to  have,  whether  you're  just  starting  out,  or  assembling  an  empire  of  alternative  domain  endings.  Over  100  million  sites  have  registered  their  .COM,  from  businesses  to  blogs,  portfolios,  and  personal  pages.  Find  your  .COM  now. Why  register  your  .com name  at  DreamHost? Free  Domain  Privacy You  shouldn't  have  to  pay  for  privacy.  Free  Domain  Privacy  Protection  is  included  for  all  domains.  See  Details DNS  Management Easily  update  your  name  server  info  along  with  your  MX,  CNAME  and  other  records. Free  Subdomains  Included Create  as  many  subdomains  (news.yourdomain.com)  as  you  want  to  customize  your  site. Free  Custom  Nameservers Create  professional-looking  "vanity"  nameservers  (ns1.yourdomain.com)  branded  with  your  domain. Domain  Forwarding You  have  full  control  to  forward  your  domain  to  any  existing  website. Optional  Domain  Locking Protect  your  domain  from  unauthorized  transfer  requests  or  scammers. What  do  our  customers  have  to  say? Trustpilot Add  email  or  hosting  to  get  online  today! Along  with  your  new  .com domain  name,  you'll  most  likely  want  email,  hosting  or  both. Getting  your  .com site  or  newemail@yournewaddress.com is  easy  with  DreamHost. Monthly  Plans Monthly  Plans Yearly  Plans Yearly  Plans Email Yearly Email Monthly Powerful,  yet  simple,  reliable  email  @  your  new  .com  domain,  with  no  need  to  change  your  hosting  plan! Starting  at $1.67/mo  per  mailbox
+ $1.99/mo  per  mailbox
+ SAVE
+
+16%  Over  Monthly
+ No  Commitments  or  Contracts
+ 25GB  Storage  per  Mailbox
+ Mobile  and  Desktop  Sync
+ Ad-Free  Webmail
+ Sign  Up  Now Sign  Up  Now Shared  Starter Great  for  new  WordPress  sites  or  small  sites  without  much  traffic  that  are  just  getting  started. Starting  at $2.59/mo
+ $4.95/mo
+ SAVE
+
+56%  Over  Monthly
+ No  Commitments  or  Contracts
+ 1 Website
+ Free  Domain included
+ FREE  Registration  Must  be  Used  Within  the  First  Month. In  order  to  qualify  for  one  free  domain  registration  credit,  you  must  sign  up  for  an  annual  Unlimited  Shared  or  Starter  plan  or  annual  DreamPress  plan  (monthly  Shared  or
+
+monthly  DreamPress  plans  do  not  apply).  This  free  credit  is  NOT  available  under  any  other  hosting  plan.  You  must  also  use  the  free  registration  within  the  first  month  of  your  annual  Shared/DreamPress  plan.  If  you
+
+do  not  use  the  free  registration  within  the  first  month,  then  it's  no  longer  available  to  use. Free  domain  registration  credit  is  only  valid  on  the  following  extensions:  .BLOG,  .CLUB,  .COM,  .INFO,  .NET,  .ONLINE,  .ORG  ,  .SHOP,  .TECH,  .XYZ Read  the  full  Terms  &  Conditions ? Buy  a  .COM for  $7.99
+ Unlimited Traffic Unlimited  Traffic We  don’t  track  bandwidth  or  traffic,  so  you  never  have  to  worry  about  pesky  overage  fees. ? WordPress  Pre-installed WordPress  Pre-installed We  install  WordPress  so  you  don't  have  to. ? Fast SSD  Storage
+ New WP  Website  Builder
+ Free SSL  Certificate
+ Free Domain  Privacy
+ Add  Email as  low  as  $1.67/mo
+ 97  Day Money-Back  Guarantee
+ Sign  Up  Now Sign  Up  Now Find  your  new  .com domain  name  now. Search  Domains Products WordPress  Hosting Website  Builder Shared  Hosting Virtual  Private  Servers Dedicated  Servers Domain  Names Monthly  Web  Hosting Company About Affiliates Blog Careers Community News Green  Hosting Partners Press  Releases Reviews Legal Legal  Information Privacy  Policy Report  Abuse Terms  of  Service WHOIS  Lookup Support Help  us  route  you  to  the  best  support  channel  available Existing  Customer Sales  /  Can't  Login Contact Knowledge  Base Forums System  Status Login Web  Hosting DreamCompute Website  Builder Webmail Copyright  ©  2019  DreamHost,  LLC. var  promoUrl  =  "https://signup.dreamhost.com/?p=";
+ {
+
+"@context":  "http://schema.org",
+
+"@type":  "Corporation",
+
+"name":  "DreamHost,  LLC",
+
+"description":  "DreamHost  is  the  leader  in  WordPress  hosting,  shared  web  hosting,  vps  hosting,  dedicated  hosting,  cloud  storage  and  cloud  computing.",
+
+"url":  "https://www.dreamhost.com/",
+
+"logo":  "https://www.dreamhost.com/blog/wp-content/uploads/2014/08/blog-dh-logo-final.jpgsor",
+
+"sameAs":  [
+
+"https://www.facebook.com/DreamHost/",
+
+"https://twitter.com/dreamhost",
+
+"https://www.instagram.com/dreamhost/",
+
+"https://www.youtube.com/user/dreamhostusa",
+
+"https://www.linkedin.com/company/dreamhost"
+
+]
+
+}
+ .async-hide  {  opacity:  0  !important}  (function(a,s,y,n,c,h,i,d,e){s.className+='  '+y;h.start=1*new  Date;
+
+h.end=i=function(){s.className=s.className.replace(RegExp('  ?'+y),'')};
+
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+
+})(window,document.documentElement,'async-hide','dataLayer',2000,
+
+{'GTM-TLN654':true}); (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new  Date().getTime(),event:'gtm.js'});var  f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TLN654'); Register  Your  New  .TECH  Domain  Name  –  DreamHost End  of  Year  Hosting  Deals:  Save  over  50%  for  a  Limited  Time Register  a  .COM  Domain  Name  for  Just  $7.99 Register  a  .TECH  Domain  Name  for  Just  $2.99 Register  a  .ONLINE  Domain  Name  for  Just  $1.99 Register  a  .ONLINE  Domain  Name  for  Just  $1.99 Affiliates Knowledge  Base Blog WordPress Hosting Websites Domains Email Grow Affiliates Knowledge  Base Blog Company Careers News Log  In Web  Hosting  CP DreamCompute  CP Remixer Webmail Shared  Hosting MOST  POPULAR The  classic  way  to  get  all  the  essentials. Starts  at
+
+$2.59/mo
+ VPS  Hosting Isolated  resources  for  more  performance,  control  &  room  to  grow. Starts  at
+
+$10.00/mo
+ Managed  WordPress  Hosting Makes  WordPress  faster,  more  secure,  &  hassle-free. Starts  at
+
+$16.95/mo
+ Dedicated  Server  Hosting Your  very  own  server  —  the  ultimate  in  performance. Starts  at
+
+$149/mo
+ Cloud  Hosting Powerful  cloud  computing  and  object  storage  for  your  project. Starts  at  $4.50/mo
+ Hosting  Overview Quality  Hosting Made  Easy Whatever  your  website  or  application  needs,  we’ve  got  you  covered.  Enjoy  100%  in-house  support,  guaranteed  performance  and  uptime,  1-click  installs,  and  a  super-intuitive  control  panel  to  make  managing  your  websites  and  projects  easy. Limited-Time  Savings! 30%  off  Unlimited  Shared  Hosting Save  Now Trustpilot Shared  WordPress  Hosting The  classic  way  to  get  all  the  essentials. Starts  at
+
+$2.59/mo
+ Managed  WordPress  Hosting MORE  POWER Fast,  secure,  and  hassle-free  sites  to  help  you  grow. Starts  at
+
+$16.95/mo
+ WooCommerce  Hosting Everything  for  your  WordPress-powered  online  store. Starts  at
+
+$16.95/mo
+ VPS  for  WordPress Dedicated  for  WordPress Compare  All  WordPress  Solutions WordPress Done  Right With  20+  years  experience  hosting  over  1.5  million  websites,  blogs,  and  online  stores  —  there’s  no  better  place  to  power  your  WordPress  site. DreamHost  Academy  Articles What  is  WordPress? Get  Started  with  WordPress  Basics Managed  vs  Shared  WordPress  Hosting See  All  42  WordPress  Tutorials Trustpilot WP  Website  Builder NEW The  quickest  way  to  build  your  WordPress  Site. Starts  at  $2.59/mo Website  Design  Service Hire  a  pro  to  build  your  polished,  professional  site  fast. Starts  at  $249 Making  Websites Simple Whether  you’re  learning  to  build  a  site  for  the  first  time,  you  prefer  to  hire  a  designer  to  build  your  site  for  you,  or  a  seasoned  developer  building  a  s  site  from  scratch,  we  have  the  perfect  solution. Best  Articles  on  Building  Your  Site How
+
+to  Install  a  WordPress  Theme How  to
+
+Develop  a  WordPress  Theme How  to
+
+Hire  a  Custom  Theme  Developer Your  Great  Idea  Starts  with  a  Domain  Name Search .club .io .xyz .net .tech .com See  All  Domain  Extensions Limited-Time  Offer $7.99  .COM  Domains With  a  .COM  domain  name,  you  can  get  the  most  sought-after  domain  extension! More  About  Domains  at  DreamHost Find  Your  Dream  Domain A  great  idea  starts  with  a  great  domain.  Reserve  yours  today  before  someone  else  snags  it!  We  support  all  the  most  popular  extensions  and  provide  privacy  protection  standard. Helpful  Links  About  Domains  at  DreamHost FREE  Domain  Privacy  Protection How  to  Transfer  a  Domain  to  DreamHost Move  Beyond  Just  .COM  -  See  All  Extensions Email  Hosting Powerful,  simple,  reliable  email  @  your  domain. Starts  at  $1.67/mo  per  mailbox G  Suite FOR  CURRENT  CUSTOMERS Work  together  from  anywhere. Starts  at  $6/user  per  month Email Hosting  @  Your  Domain Nothing  is  more  professional  than  a  personalized  email  address  using  your  very  own  domain  name!  Our  email  plan  makes  it  easy  to  get  legit  quick. .embed-responsive  {
+
+position:  relative;
+
+display:  block;
+
+height:  0;
+
+padding:  0;
+
+overflow:  hidden;
+
+}
+
+.embed-responsive  .embed-responsive-item,
+
+.embed-responsive  iframe,
+
+.embed-responsive  embed,
+
+.embed-responsive  object,
+
+.embed-responsive  video  {
+
+position:  absolute;
+
+top:  0;
+
+bottom:  0;
+
+left:  0;
+
+width:  100%;
+
+height:  100%;
+
+border:  0;
+
+}
+
+.embed-responsive-16by9  {
+
+padding-bottom:  56.25%;
+
+}
+ Buy  .tech Domains Just  for  the  1st  year! Sale  price  1st  year  only.  Renewals  charged  at  regular  rate  of  . Register  a  .tech Domain  for  Just  /year! Find  your  perfect  .tech domain  name Fetching  results… Why  register  a  .tech domain  name? You're  in  the  tech  industry.  Whether  you  specialize  in  solving  customers'  problems,  or  you're  developing  the  next  cutting-edge  solution,  registering  a  .TECH  domain  name  is  the  latest  way  to  stand  out  in  search  results  and  clearly  communicate  your  site's  expertise. You'd  like  to  buy  a  vowel. Lately,  tech  startups  have  been  so  desperate  to  find  an  available  .com  that  they've  even  started  dropping  vowels  from  common  words.  But  then  you're  left  with  a  nearly  indecipherable  jumble  of  consonants.  DrmHst.com  …what  the  heck  is  that?  With  .TECH,  you  get  to  keep  your  vowels  with  a  domain  that  shows  you're  serious  about  technology. It's  perfect  for… Anyone  in  the  tech  industry:  developers,  startups,  IT  specialists,  system  administrators,  security  analysts,  hackers,  research  firms,  entrepreneurs,  bloggers,  online  stores.  If  your  site  is  about  technology,  then  a  .TECH  makes  sense. Why  register  your  .tech name  at  DreamHost? Free  Domain  Privacy You  shouldn't  have  to  pay  for  privacy.  Free  Domain  Privacy  Protection  is  included  for  all  domains.  See  Details DNS  Management Easily  update  your  name  server  info  along  with  your  MX,  CNAME  and  other  records. Free  Subdomains  Included Create  as  many  subdomains  (news.yourdomain.tech)  as  you  want  to  customize  your  site. Free  Custom  Nameservers Create  professional-looking  "vanity"  nameservers  (ns1.yourdomain.tech)  branded  with  your  domain. Domain  Forwarding You  have  full  control  to  forward  your  domain  to  any  existing  website. Optional  Domain  Locking Protect  your  domain  from  unauthorized  transfer  requests  or  scammers. What  do  our  customers  have  to  say? Trustpilot Add  email  or  hosting  to  get  online  today! Along  with  your  new  .tech domain  name,  you'll  most  likely  want  email,  hosting  or  both. Getting  your  .tech site  or  newemail@yournewaddress.tech is  easy  with  DreamHost. Monthly  Plans Monthly  Plans Yearly  Plans Yearly  Plans Email Yearly Email Monthly Powerful,  yet  simple,  reliable  email  @  your  new  .tech  domain,  with  no  need  to  change  your  hosting  plan! Starting  at $1.67/mo  per  mailbox
+ $1.99/mo  per  mailbox
+ SAVE
+
+16%  Over  Monthly
+ No  Commitments  or  Contracts
+ 25GB  Storage  per  Mailbox
+ Mobile  and  Desktop  Sync
+ Ad-Free  Webmail
+ Sign  Up  Now Sign  Up  Now Shared  Starter Great  for  new  WordPress  sites  or  small  sites  without  much  traffic  that  are  just  getting  started. Starting  at $2.59/mo
+ $4.95/mo
+ SAVE
+
+56%  Over  Monthly
+ No  Commitments  or  Contracts
+ 1 Website
+ Free  Domain included
+ FREE  Registration  Must  be  Used  Within  the  First  Month. In  order  to  qualify  for  one  free  domain  registration  credit,  you  must  sign  up  for  an  annual  Unlimited  Shared  or  Starter  plan  or  annual  DreamPress  plan  (monthly  Shared  or
+
+monthly  DreamPress  plans  do  not  apply).  This  free  credit  is  NOT  available  under  any  other  hosting  plan.  You  must  also  use  the  free  registration  within  the  first  month  of  your  annual  Shared/DreamPress  plan.  If  you
+
+do  not  use  the  free  registration  within  the  first  month,  then  it's  no  longer  available  to  use. Free  domain  registration  credit  is  only  valid  on  the  following  extensions:  .BLOG,  .CLUB,  .COM,  .INFO,  .NET,  .ONLINE,  .ORG  ,  .SHOP,  .TECH,  .XYZ Read  the  full  Terms  &  Conditions ? Buy  a  .TECH for  $2.99
+ Unlimited Traffic Unlimited  Traffic We  don’t  track  bandwidth  or  traffic,  so  you  never  have  to  worry  about  pesky  overage  fees. ? WordPress  Pre-installed WordPress  Pre-installed We  install  WordPress  so  you  don't  have  to. ? Fast SSD  Storage
+ New WP  Website  Builder
+ Free SSL  Certificate
+ Free Domain  Privacy
+ Add  Email as  low  as  $1.67/mo
+ 97  Day Money-Back  Guarantee
+ Sign  Up  Now Sign  Up  Now Find  your  new  .tech domain  name  now. Search  Domains Products WordPress  Hosting Website  Builder Shared  Hosting Virtual  Private  Servers Dedicated  Servers Domain  Names Monthly  Web  Hosting Company About Affiliates Blog Careers Community News Green  Hosting Partners Press  Releases Reviews Legal Legal  Information Privacy  Policy Report  Abuse Terms  of  Service WHOIS  Lookup Support Help  us  route  you  to  the  best  support  channel  available Existing  Customer Sales  /  Can't  Login Contact Knowledge  Base Forums System  Status Login Web  Hosting DreamCompute Website  Builder Webmail Copyright  ©  2019  DreamHost,  LLC. var  promoUrl  =  "https://signup.dreamhost.com/?p=";
+ {
+
+"@context":  "http://schema.org",
+
+"@type":  "Corporation",
+
+"name":  "DreamHost,  LLC",
+
+"description":  "DreamHost  is  the  leader  in  WordPress  hosting,  shared  web  hosting,  vps  hosting,  dedicated  hosting,  cloud  storage  and  cloud  computing.",
+
+"url":  "https://www.dreamhost.com/",
+
+"logo":  "https://www.dreamhost.com/blog/wp-content/uploads/2014/08/blog-dh-logo-final.jpgsor",
+
+"sameAs":  [
+
+"https://www.facebook.com/DreamHost/",
+
+"https://twitter.com/dreamhost",
+
+"https://www.instagram.com/dreamhost/",
+
+"https://www.youtube.com/user/dreamhostusa",
+
+"https://www.linkedin.com/company/dreamhost"
+
+]
+
+}
+ .async-hide  {  opacity:  0  !important}  (function(a,s,y,n,c,h,i,d,e){s.className+='  '+y;h.start=1*new  Date;
+
+h.end=i=function(){s.className=s.className.replace(RegExp('  ?'+y),'')};
+
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+
+})(window,document.documentElement,'async-hide','dataLayer',2000,
+
+{'GTM-TLN654':true}); (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new  Date().getTime(),event:'gtm.js'});var  f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TLN654'); Register  Your  New  .ONLINE  Domain  Name  –  DreamHost End  of  Year  Hosting  Deals:  Save  over  50%  for  a  Limited  Time Register  a  .COM  Domain  Name  for  Just  $7.99 Register  a  .TECH  Domain  Name  for  Just  $2.99 Register  a  .ONLINE  Domain  Name  for  Just  $1.99 Register  a  .ONLINE  Domain  Name  for  Just  $1.99 Affiliates Knowledge  Base Blog WordPress Hosting Websites Domains Email Grow Affiliates Knowledge  Base Blog Company Careers News Log  In Web  Hosting  CP DreamCompute  CP Remixer Webmail Shared  Hosting MOST  POPULAR The  classic  way  to  get  all  the  essentials. Starts  at
+
+$2.59/mo
+ VPS  Hosting Isolated  resources  for  more  performance,  control  &  room  to  grow. Starts  at
+
+$10.00/mo
+ Managed  WordPress  Hosting Makes  WordPress  faster,  more  secure,  &  hassle-free. Starts  at
+
+$16.95/mo
+ Dedicated  Server  Hosting Your  very  own  server  —  the  ultimate  in  performance. Starts  at
+
+$149/mo
+ Cloud  Hosting Powerful  cloud  computing  and  object  storage  for  your  project. Starts  at  $4.50/mo
+ Hosting  Overview Quality  Hosting Made  Easy Whatever  your  website  or  application  needs,  we’ve  got  you  covered.  Enjoy  100%  in-house  support,  guaranteed  performance  and  uptime,  1-click  installs,  and  a  super-intuitive  control  panel  to  make  managing  your  websites  and  projects  easy. Limited-Time  Savings! 30%  off  Unlimited  Shared  Hosting Save  Now Trustpilot Shared  WordPress  Hosting The  classic  way  to  get  all  the  essentials. Starts  at
+
+$2.59/mo
+ Managed  WordPress  Hosting MORE  POWER Fast,  secure,  and  hassle-free  sites  to  help  you  grow. Starts  at
+
+$16.95/mo
+ WooCommerce  Hosting Everything  for  your  WordPress-powered  online  store. Starts  at
+
+$16.95/mo
+ VPS  for  WordPress Dedicated  for  WordPress Compare  All  WordPress  Solutions WordPress Done  Right With  20+  years  experience  hosting  over  1.5  million  websites,  blogs,  and  online  stores  —  there’s  no  better  place  to  power  your  WordPress  site. DreamHost  Academy  Articles What  is  WordPress? Get  Started  with  WordPress  Basics Managed  vs  Shared  WordPress  Hosting See  All  42  WordPress  Tutorials Trustpilot WP  Website  Builder NEW The  quickest  way  to  build  your  WordPress  Site. Starts  at  $2.59/mo Website  Design  Service Hire  a  pro  to  build  your  polished,  professional  site  fast. Starts  at  $249 Making  Websites Simple Whether  you’re  learning  to  build  a  site  for  the  first  time,  you  prefer  to  hire  a  designer  to  build  your  site  for  you,  or  a  seasoned  developer  building  a  s  site  from  scratch,  we  have  the  perfect  solution. Best  Articles  on  Building  Your  Site How
+
+to  Install  a  WordPress  Theme How  to
+
+Develop  a  WordPress  Theme How  to
+
+Hire  a  Custom  Theme  Developer Your  Great  Idea  Starts  with  a  Domain  Name Search .club .io .xyz .net .tech .com See  All  Domain  Extensions Limited-Time  Offer $7.99  .COM  Domains With  a  .COM  domain  name,  you  can  get  the  most  sought-after  domain  extension! More  About  Domains  at  DreamHost Find  Your  Dream  Domain A  great  idea  starts  with  a  great  domain.  Reserve  yours  today  before  someone  else  snags  it!  We  support  all  the  most  popular  extensions  and  provide  privacy  protection  standard. Helpful  Links  About  Domains  at  DreamHost FREE  Domain  Privacy  Protection How  to  Transfer  a  Domain  to  DreamHost Move  Beyond  Just  .COM  -  See  All  Extensions Email  Hosting Powerful,  simple,  reliable  email  @  your  domain. Starts  at  $1.67/mo  per  mailbox G  Suite FOR  CURRENT  CUSTOMERS Work  together  from  anywhere. Starts  at  $6/user  per  month Email Hosting  @  Your  Domain Nothing  is  more  professional  than  a  personalized  email  address  using  your  very  own  domain  name!  Our  email  plan  makes  it  easy  to  get  legit  quick. .embed-responsive  {
+
+position:  relative;
+
+display:  block;
+
+height:  0;
+
+padding:  0;
+
+overflow:  hidden;
+
+}
+
+.embed-responsive  .embed-responsive-item,
+
+.embed-responsive  iframe,
+
+.embed-responsive  embed,
+
+.embed-responsive  object,
+
+.embed-responsive  video  {
+
+position:  absolute;
+
+top:  0;
+
+bottom:  0;
+
+left:  0;
+
+width:  100%;
+
+height:  100%;
+
+border:  0;
+
+}
+
+.embed-responsive-16by9  {
+
+padding-bottom:  56.25%;
+
+}
+ Buy  .online Domains Just  for  the  1st  year! Sale  price  1st  year  only.  Renewals  charged  at  regular  rate  of  . Register  a  .online Domain  for  Just  /year! Find  your  perfect  .online domain  name Fetching  results… Why  register  a  .online domain  name? You're  online,  of  course!! Think  about  why  you  buy  a  domain  name  in  the  first  place  --  to  get  online!  Make  your  URL  reflect  it.  With  your  'brandname.ONLINE'  domain,  you'll  have  a  simple,  catchy  way  for  users  to  remember  your  site.  It's  one  of  the  latest  new  gTLDs  to  hit  the  market,  and  already  one  of  the  most  popular  ways  to  end  your  URL. It's  understood  in  24+  languages. Ready  to  expand  your  site's  horizons?  As  the  world  takes  to  the  web,  'online'  has  become  an  increasingly  popular  search  term.  Put  your  domain  name  where  people  are  already  looking  with  a  dot-ONLINE  extension. It's  perfect  for… .ONLINE  is  so  valuable  because  it's  so  flexible.  It's  great  for  sites  that  want  to  differentiate  themselves  from  traditional  brick  and  mortar  business,  as  well  as  ones  looking  to  transform  and  modernize  their  image.  Entrepreneurs,  personal  portfolios,  and  ecommerce  sites  are  all  getting  .ONLINE.  Search  for  yours  now. Why  register  your  .online name  at  DreamHost? Free  Domain  Privacy You  shouldn't  have  to  pay  for  privacy.  Free  Domain  Privacy  Protection  is  included  for  all  domains.  See  Details DNS  Management Easily  update  your  name  server  info  along  with  your  MX,  CNAME  and  other  records. Free  Subdomains  Included Create  as  many  subdomains  (news.yourdomain.online)  as  you  want  to  customize  your  site. Free  Custom  Nameservers Create  professional-looking  "vanity"  nameservers  (ns1.yourdomain.online)  branded  with  your  domain. Domain  Forwarding You  have  full  control  to  forward  your  domain  to  any  existing  website. Optional  Domain  Locking Protect  your  domain  from  unauthorized  transfer  requests  or  scammers. What  do  our  customers  have  to  say? Trustpilot Add  email  or  hosting  to  get  online  today! Along  with  your  new  .online domain  name,  you'll  most  likely  want  email,  hosting  or  both. Getting  your  .online site  or  newemail@yournewaddress.online is  easy  with  DreamHost. Monthly  Plans Monthly  Plans Yearly  Plans Yearly  Plans Email Yearly Email Monthly Powerful,  yet  simple,  reliable  email  @  your  new  .online  domain,  with  no  need  to  change  your  hosting  plan! Starting  at $1.67/mo  per  mailbox
+ $1.99/mo  per  mailbox
+ SAVE
+
+16%  Over  Monthly
+ No  Commitments  or  Contracts
+ 25GB  Storage  per  Mailbox
+ Mobile  and  Desktop  Sync
+ Ad-Free  Webmail
+ Sign  Up  Now Sign  Up  Now Shared  Starter Great  for  new  WordPress  sites  or  small  sites  without  much  traffic  that  are  just  getting  started. Starting  at $2.59/mo
+ $4.95/mo
+ SAVE
+
+56%  Over  Monthly
+ No  Commitments  or  Contracts
+ 1 Website
+ Free  Domain included
+ FREE  Registration  Must  be  Used  Within  the  First  Month. In  order  to  qualify  for  one  free  domain  registration  credit,  you  must  sign  up  for  an  annual  Unlimited  Shared  or  Starter  plan  or  annual  DreamPress  plan  (monthly  Shared  or
+
+monthly  DreamPress  plans  do  not  apply).  This  free  credit  is  NOT  available  under  any  other  hosting  plan.  You  must  also  use  the  free  registration  within  the  first  month  of  your  annual  Shared/DreamPress  plan.  If  you
+
+do  not  use  the  free  registration  within  the  first  month,  then  it's  no  longer  available  to  use. Free  domain  registration  credit  is  only  valid  on  the  following  extensions:  .BLOG,  .CLUB,  .COM,  .INFO,  .NET,  .ONLINE,  .ORG  ,  .SHOP,  .TECH,  .XYZ Read  the  full  Terms  &  Conditions ? Buy  a  .ONLINE for  $1.99
+ Unlimited Traffic Unlimited  Traffic We  don’t  track  bandwidth  or  traffic,  so  you  never  have  to  worry  about  pesky  overage  fees. ? WordPress  Pre-installed WordPress  Pre-installed We  install  WordPress  so  you  don't  have  to. ? Fast SSD  Storage
+ New WP  Website  Builder
+ Free SSL  Certificate
+ Free Domain  Privacy
+ Add  Email as  low  as  $1.67/mo
+ 97  Day Money-Back  Guarantee
+ Sign  Up  Now Sign  Up  Now Find  your  new  .online domain  name  now. Search  Domains Products WordPress  Hosting Website  Builder Shared  Hosting Virtual  Private  Servers Dedicated  Servers Domain  Names Monthly  Web  Hosting Company About Affiliates Blog Careers Community News Green  Hosting Partners Press  Releases Reviews Legal Legal  Information Privacy  Policy Report  Abuse Terms  of  Service WHOIS  Lookup Support Help  us  route  you  to  the  best  support  channel  available Existing  Customer Sales  /  Can't  Login Contact Knowledge  Base Forums System  Status Login Web  Hosting DreamCompute Website  Builder Webmail Copyright  ©  2019  DreamHost,  LLC. var  promoUrl  =  "https://signup.dreamhost.com/?p=";
+ {
+
+"@context":  "http://schema.org",
+
+"@type":  "Corporation",
+
+"name":  "DreamHost,  LLC",
+
+"description":  "DreamHost  is  the  leader  in  WordPress  hosting,  shared  web  hosting,  vps  hosting,  dedicated  hosting,  cloud  storage  and  cloud  computing.",
+
+"url":  "https://www.dreamhost.com/",
+
+"logo":  "https://www.dreamhost.com/blog/wp-content/uploads/2014/08/blog-dh-logo-final.jpgsor",
+
+"sameAs":  [
+
+"https://www.facebook.com/DreamHost/",
+
+"https://twitter.com/dreamhost",
+
+"https://www.instagram.com/dreamhost/",
+
+"https://www.youtube.com/user/dreamhostusa",
+
+"https://www.linkedin.com/company/dreamhost"
+
+]
+
+}
+ .async-hide  {  opacity:  0  !important}  (function(a,s,y,n,c,h,i,d,e){s.className+='  '+y;h.start=1*new  Date;
+
+h.end=i=function(){s.className=s.className.replace(RegExp('  ?'+y),'')};
+
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+
+})(window,document.documentElement,'async-hide','dataLayer',2000,
+
+{'GTM-TLN654':true}); (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new  Date().getTime(),event:'gtm.js'});var  f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TLN654'); Web  Hosting  Affiliate  Program  –  DreamHost {
+
+"@context":  "https://schema.org",
+
+"@type":  "VideoObject",
+
+"name":  "DreamHost:  Affiliate  Program",
+
+"description":  "Earn  money  fast  with  DreamHost's  Affiliate  Program.",
+
+"thumbnailUrl":  "http://i3.ytimg.com/vi/ZPtp5CYnaYs/maxresdefault.jpg",
+
+"uploadDate":  "2019-06-25T08:00:00+08:00",
+
+"duration":  "PT1M06S",
+
+"publisher":  {
+
+"@type":  "Organization",
+
+"name":  "DreamHost,  LLC",
+
+"logo":  {
+
+"@type":  "ImageObject",
+
+"url":  "https://www.dreamhost.com//assets/dh.logo.meta.364x60.white-bff7f73ddd4fdbdd4ff8120733cd55f0418e63a26f41ad3d83af4d2fa11ed2f4.png",
+
+"width":  364,
+
+"height":  60
+
+}
+
+}
+
+}
+ End  of  Year  Hosting  Deals:  Save  over  50%  for  a  Limited  Time Register  a  .COM  Domain  Name  for  Just  $7.99 Register  a  .TECH  Domain  Name  for  Just  $2.99 Register  a  .ONLINE  Domain  Name  for  Just  $1.99 Register  a  .ONLINE  Domain  Name  for  Just  $1.99 Affiliates Knowledge  Base Blog WordPress Hosting Websites Domains Email Grow Affiliates Knowledge  Base Blog Company Careers News Log  In  (Panel) Log  In  (Ambassador) Shared  Hosting MOST  POPULAR The  classic  way  to  get  all  the  essentials. Starts  at
+
+$2.59/mo
+ VPS  Hosting Isolated  resources  for  more  performance,  control  &  room  to  grow. Starts  at
+
+$10.00/mo
+ Managed  WordPress  Hosting Makes  WordPress  faster,  more  secure,  &  hassle-free. Starts  at
+
+$16.95/mo
+ Dedicated  Server  Hosting Your  very  own  server  —  the  ultimate  in  performance. Starts  at
+
+$149/mo
+ Cloud  Hosting Powerful  cloud  computing  and  object  storage  for  your  project. Starts  at  $4.50/mo
+ Hosting  Overview Quality  Hosting Made  Easy Whatever  your  website  or  application  needs,  we’ve  got  you  covered.  Enjoy  100%  in-house  support,  guaranteed  performance  and  uptime,  1-click  installs,  and  a  super-intuitive  control  panel  to  make  managing  your  websites  and  projects  easy. Limited-Time  Savings! 30%  off  Unlimited  Shared  Hosting Save  Now Trustpilot Shared  WordPress  Hosting The  classic  way  to  get  all  the  essentials. Starts  at
+
+$2.59/mo
+ Managed  WordPress  Hosting MORE  POWER Fast,  secure,  and  hassle-free  sites  to  help  you  grow. Starts  at
+
+$16.95/mo
+ WooCommerce  Hosting Everything  for  your  WordPress-powered  online  store. Starts  at
+
+$16.95/mo
+ VPS  for  WordPress Dedicated  for  WordPress Compare  All  WordPress  Solutions WordPress Done  Right With  20+  years  experience  hosting  over  1.5  million  websites,  blogs,  and  online  stores  —  there’s  no  better  place  to  power  your  WordPress  site. DreamHost  Academy  Articles What  is  WordPress? Get  Started  with  WordPress  Basics Managed  vs  Shared  WordPress  Hosting See  All  42  WordPress  Tutorials Trustpilot WP  Website  Builder NEW The  quickest  way  to  build  your  WordPress  Site. Starts  at  $2.59/mo Website  Design  Service Hire  a  pro  to  build  your  polished,  professional  site  fast. Starts  at  $249 Making  Websites Simple Whether  you’re  learning  to  build  a  site  for  the  first  time,  you  prefer  to  hire  a  designer  to  build  your  site  for  you,  or  a  seasoned  developer  building  a  s  site  from  scratch,  we  have  the  perfect  solution. Best  Articles  on  Building  Your  Site How
+
+to  Install  a  WordPress  Theme How  to
+
+Develop  a  WordPress  Theme How  to
+
+Hire  a  Custom  Theme  Developer Your  Great  Idea  Starts  with  a  Domain  Name Search .club .io .xyz .net .tech .com See  All  Domain  Extensions Limited-Time  Offer $7.99  .COM  Domains With  a  .COM  domain  name,  you  can  get  the  most  sought-after  domain  extension! More  About  Domains  at  DreamHost Find  Your  Dream  Domain A  great  idea  starts  with  a  great  domain.  Reserve  yours  today  before  someone  else  snags  it!  We  support  all  the  most  popular  extensions  and  provide  privacy  protection  standard. Helpful  Links  About  Domains  at  DreamHost FREE  Domain  Privacy  Protection How  to  Transfer  a  Domain  to  DreamHost Move  Beyond  Just  .COM  -  See  All  Extensions Email  Hosting Powerful,  simple,  reliable  email  @  your  domain. Starts  at  $1.67/mo  per  mailbox G  Suite FOR  CURRENT  CUSTOMERS Work  together  from  anywhere. Starts  at  $6/user  per  month Email Hosting  @  Your  Domain Nothing  is  more  professional  than  a  personalized  email  address  using  your  very  own  domain  name!  Our  email  plan  makes  it  easy  to  get  legit  quick. Web  Hosting  Affiliate  Program Join  the  DreamHost  Affiliate  Program  to  get  cash  quickly.  Earn  up  to  $200  per  referral! Sign  Up  in  2  Minutes Affiliate  Marketing  With  All  The  Perks We  make  it  easy  to  sell  and  get  paid. Relevant  Solutions Partner  with  the  managed  WordPress  solution  that's  officially  recommended  by  WordPress.org Get  Paid  Quickly Secure  payments  are  made  via  PayPal  on  time,  every  time. Advanced  Tracking  URLs Our  tracking  URLS  ensure  that  every  person  that  signs  up  through  your  link  is  tracked. Beautiful  banners Our  ready-to-use  creative  banners  come  in  various  sizes  and  look  great  on  any  site. Financial  Freedom Unlimited  payouts!  No  caps  on  your  earning  potential! Easy-to-Use  Dashboard Track  all  your  earnings  through  your  dashboard. Easy  to  Start.  Easy  to  Earn. Need  extra  cash?  Look  no  further  than  DreamHost. Sign  Up Fill  out  our  online  signup  form in  2  minutes ,  and  start  earning. Promote We'll  keep  track  of  all  your  signups  through  your  own  unique  tracking  URLs. Get  Paid Get  paid  securely  through  PayPal  after  the  trial  period. Monthly  Plan  Payout  Starting  at  $15/referral Payout  amounts  listed  below  are  where  every  affiliate  starts.  Additional  compensation  is  available  based  on  sales  volume. ? Yearly  Plan  Payout  Starting  at  $50/referral Payout  amounts  listed  below  are  where  every  affiliate  starts.  Additional  compensation  is  available  based  on  sales  volume. ? Shared  Starter  Our  most  popular  plan.  Starter  Shared  hosting  with  an  entry  level  price  for  new  sites,  including  WordPress. ? $15 $50 Shared  Unlimited  Great  for  multiple  websites,  including  WordPress,  and  anyone  who  wants  email  hosting  on  their  domain. ? $30 $100 VPS  (Virtual  Private  Server)  Our  Virtual  Private  Servers  are  managed,  come  prepped  for  additional  RAM  &  storage  for  growth,  and  start  at  just  $10/month. ? $30 $100 Dedicated  Server  Great  for  large  companies:  fully  managed,  on  redundant  power  supplies,  and  can  be  setup  with  a  few  days. ? $200 $200 DreamPress  (WordPress  Hosting)  Specifically  catered  for  WordPress  with  everything  users  need  to  power  successful  websites. ? $150 $150 Payout  Calculator Total  Referred  Customers With Shared  Starter Shared  Unlimited VPS  (Virtual  Private  Server) Dedicated  Server DreamPress  (WordPress  Hosting) Payout: $ 1,350 after  the  trial  period. Now  What? Still  have  some  questions,  or  are  you  ready  to  start  earning?  Either  way,  we  are  here  for  you  every  step  of  the  way! Sign  Up  in  2  Minutes Send  Us  a  Message Our  Customers  Love  Us  and  So  Will  You Trustpilot Great  Resources  for  DreamHost  Affiliates Learn  all  you  need  to  know  about  creating  a  successful  WordPress  website. Beginners  Guide  To  Affiliate  Marketing Terms  and  Conditions  (Current) Affiliates  Knowledgebase Terms  and  Conditions  (Legacy) Frequently  Asked  Questions What  is  an  affiliate  program? An  affiliate  program  is  a  revenue  sharing  program  where  the  affiliate  (aka  you)  refers  customers  to  certain  products  (that's  us)  and  then  we  give  you  some  money  for  the  whole  process!  When  you  share  your  unique  URL  and  a  customer  purchases  a  plan,  you  will  be  rewarded  with  a  commission! How  long  till  I  can  make  money?  How  much  can  I  make?  How  will  I  be  paid? Payouts  have  a  waiting  period  of  97  day,  which  is  set  by  our  gracious  refund  guarantee.  As  long  as  your  referral  does  not  cancel  or  miss  a  payment,  you  will  see  that  payout  within  the  97  days  of  them  signing  up. DreamHost  has  no  limits  on  how  much  you  can  make.  Just  last  year  we  had  some  top  earners  make  over  $9,000  in  affiliate  payouts. We  payout  any  approved  commissions  through  PayPal  once  a  month.  As  long  as  your  rewards  have  been  approved  and  are  out  of  the  97  day  holding  window,  you  will  see  that  payment  via  PayPal. What  is  an  affiliate  program? An  affiliate  program  is  a  revenue  sharing  program  where  the  affiliate  (aka  you)  refers  customers  to  certain  products  (that's  us)  and  then  we  give  you  some  money  for  the  whole  process!  When  you  share  your  unique  URL  and  a  customer  purchases  a  plan,  you  will  be  rewarded  with  a  commission! Are  there  higher  payouts  if  I  bring  in  more  sales? We  are  currently  working  on  creating  new  tiers  for  our  high  sellers.  If  you  qualify,  you  will  receive  and  email  from  our  affiliate  manager  who  will  discuss  further  options  with  you! Who  can  become  a  DreamHost  affiliate?  Do  I  need  an  account? Absolutely  anyone  can  become  a  DreamHost  affiliate!  We  have  partnered  up  with  Ambassador  so  creating  an  account  is  quick  and  easy,  and  you  don't  need  a  DreamHost  account  to  join! I  just  signed  up,  but  I  don't  know  my  password.  Where  can  I  find  that? Your  password  is  generated  after  you  create  your  account  and  is  included  in  the  introduction  email  that  we  send  to  the  email  you  signed  up  with.  Please  use  this  password  and  follow  the  instructions  included  in  the  email  to  reset  your  password. If  you  are  unable  to  locate  this  email,  you  will  need  to  log  out  of  the  affiliate  account  and  use  the  Forgot  your  password?  link  on  the  login  screen. I'm  still  confused  and  need  some  human  help.  Help? If  you  have  gotten  this  far  and  still  need  help,  please  feel  free  to  email  us  at  affiliates@dreamhost.com or  use  the  above  form  to  send  in  a  message  and  our  affiliate  manager  will  be  in  contact  with  you  shortly! Have  Questions?  Ask  Away Affiliates What's  your  name? What's  your  email  address? What  would  you  like  to  ask? Send  Your  Question Your  inquiry  was  submitted  successfully.  Thank  you. Products WordPress  Hosting Website  Builder Shared  Hosting Virtual  Private  Servers Dedicated  Servers Domain  Names Monthly  Web  Hosting Company About Affiliates Blog Careers Community News Green  Hosting Partners Press  Releases Reviews Legal Legal  Information Privacy  Policy Report  Abuse Terms  of  Service WHOIS  Lookup Support Help  us  route  you  to  the  best  support  channel  available Existing  Customer Sales  /  Can't  Login Contact Knowledge  Base Forums System  Status Login Web  Hosting DreamCompute Website  Builder Webmail Copyright  ©  2019  DreamHost,  LLC. var  promoUrl  =  "https://signup.dreamhost.com/?p=";
+ {
+
+"@context":  "http://schema.org",
+
+"@type":  "Corporation",
+
+"name":  "DreamHost,  LLC",
+
+"description":  "DreamHost  is  the  leader  in  WordPress  hosting,  shared  web  hosting,  vps  hosting,  dedicated  hosting,  cloud  storage  and  cloud  computing.",
+
+"url":  "https://www.dreamhost.com/",
+
+"logo":  "https://www.dreamhost.com/blog/wp-content/uploads/2014/08/blog-dh-logo-final.jpgsor",
+
+"sameAs":  [
+
+"https://www.facebook.com/DreamHost/",
+
+"https://twitter.com/dreamhost",
+
+"https://www.instagram.com/dreamhost/",
+
+"https://www.youtube.com/user/dreamhostusa",
+
+"https://www.linkedin.com/company/dreamhost"
+
+]
+
+}
+ .async-hide  {  opacity:  0  !important}  (function(a,s,y,n,c,h,i,d,e){s.className+='  '+y;h.start=1*new  Date;
+
+h.end=i=function(){s.className=s.className.replace(RegExp('  ?'+y),'')};
+
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+
+})(window,document.documentElement,'async-hide','dataLayer',2000,
+
+{'GTM-TLN654':true}); (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new  Date().getTime(),event:'gtm.js'});var  f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-TLN654'); DreamHost  |  Web  Hosting  For  Your  Purpose  {
+
+"@context":  "https://schema.org",
+
+"@type":  "VideoObject",
+
+"name":  "DreamHost:  Fast,  Secure,  Up",
+
+"description":  "At  DreamHost,  we  ensure  that  your  website  is  fast,  secure,  and  always  up.",
+
+"thumbnailUrl":  "http://i3.ytimg.com/vi/Ly6RgnDZ52I/maxresdefault.jpg",
+
+"uploadDate":  "2019-05-30T08:00:00+08:00",
+
+"duration":  "PT1M24S",
+
+"publisher":  {
+
+"@type":  "Organization",
+
+"name":  "DreamHost,  LLC",
+
+"logo":  {
+
+"@type":  "ImageObject",
+
+"url":  "https://www.dreamhost.com//assets/dh.logo.meta.364x60.white-bff7f73ddd4fdbdd4ff8120733cd55f0418e63a26f41ad3d83af4d2fa11ed2f4.png",
+
+"width":  364,
+
+"height":  60
+
+}
+
+}
+
+}
+ End  of  Year  Hosting  Deals:  Save  over  50%  for  a  Limited  Time Register  a  .COM  Domain  Name  for  Just  $7.99 Register  a  .TECH  Domain  Name  for  Just  $2.99 Register  a  .ONLINE  Domain  Name  for  Just  $1.99 Register  a  .ONLINE  Domain  Name  for  Just  $1.99 Affiliates Knowledge  Base Blog WordPress Hosting Websites Domains Email Grow Affiliates Knowledge  Base Blog Company Careers News Log  In Web  Hosting  CP DreamCompute  CP Remixer Webmail Get  Started Shared  Hosting MOST  POPULAR The  classic  way  to  get  all  the  essentials. Starts  at
+
+$2.59/mo
+ VPS  Hosting Isolated  resources  for  more  performance,  control  &  room  to  grow. Starts  at
+
+$10.00/mo
+ Managed  WordPress  Hosting Makes  WordPress  faster,  more  secure,  &  hassle-free. Starts  at
+
+$16.95/mo
+ Dedicated  Server  Hosting Your  very  own  server  —  the  ultimate  in  performance. Starts  at
+
+$149/mo
+ Cloud  Hosting Powerful  cloud  computing  and  object  storage  for  your  project. Starts  at  $4.50/mo
+ Hosting  Overview Quality  Hosting Made  Easy Whatever  your  website  or  application  needs,  we’ve  got  you  covered.  Enjoy  100%  in-house  support,  guaranteed  performance  and  uptime,  1-click  installs,  and  a  super-intuitive  control  panel  to  make  managing  your  websites  and  projects  easy. Limited-Time  Savings! 30%  off  Unlimited  Shared  Hosting Save  Now Trustpilot Shared  WordPress  Hosting The  classic  way  to  get  all  the  essentials. Starts  at
+
+$2.59/mo
+ Managed  WordPress  Hosting MORE  POWER Fast,  secure,  and  hassle-free  sites  to  help  you  grow. Starts  at
+
+$16.95/mo
+ WooCommerce  Hosting Everything  for  your  WordPress-powered  online  store. Starts  at
+
+$16.95/mo
+ VPS  for  WordPress Dedicated  for  WordPress Compare  All  WordPress  Solutions WordPress Done  Right With  20+  years  experience  hosting  over  1.5  million  websites,  blogs,  and  online  stores  —  there’s  no  better  place  to  power  your  WordPress  site. DreamHost  Academy  Articles What  is  WordPress? Get  Started  with  WordPress  Basics Managed  vs  Shared  WordPress  Hosting See  All  42  WordPress  Tutorials Trustpilot WP  Website  Builder NEW The  quickest  way  to  build  your  WordPress  Site. Starts  at  $2.59/mo Website  Design  Service Hire  a  pro  to  build  your  polished,  professional  site  fast. Starts  at  $249 Making  Websites Simple Whether  you’re  learning  to  build  a  site  for  the  first  time,  you  prefer  to  hire  a  designer  to  build  your  site  for  you,  or  a  seasoned  developer  building  a  s  site  from  scratch,  we  have  the  perfect  solution. Best  Articles  on  Building  Your  Site How
+
+to  Install  a  WordPress  Theme How  to
+
+Develop  a  WordPress  Theme How  to
+
+Hire  a  Custom  Theme  Developer Your  Great  Idea  Starts  with  a  Domain  Name Search .club .io .xyz .net .tech .com See  All  Domain  Extensions Limited-Time  Offer $7.99  .COM  Domains With  a  .COM  domain  name,  you  can  get  the  most  sought-after  domain  extension! More  About  Domains  at  DreamHost Find  Your  Dream  Domain A  great  idea  starts  with  a  great  domain.  Reserve  yours  today  before  someone  else  snags  it!  We  support  all  the  most  popular  extensions  and  provide  privacy  protection  standard. Helpful  Links  About  Domains  at  DreamHost FREE  Domain  Privacy  Protection How  to  Transfer  a  Domain  to  DreamHost Move  Beyond  Just  .COM  -  See  All  Extensions Email  Hosting Powerful,  simple,  reliable  email  @  your  domain. Starts  at  $1.67/mo  per  mailbox G  Suite FOR  CURRENT  CUSTOMERS Work  together  from  anywhere. Starts  at  $6/user  per  month Email Hosting  @  Your  Domain Nothing  is  more  professional  than  a  personalized  email  address  using  your  very  own  domain  name!  Our  email  plan  makes  it  easy  to  get  legit  quick. .add-cursor:hover  {
+
+cursor:  pointer;
+
+}
+ Meet  DreamHost Web  Hosting  with  Purpose We  make  sure  your  website  is  fast,  secure  &  always  up  - so  your  visitors  &  search  engines  trust  you.  Guaranteed. Get  Started It's  more  than  a  website... The  Latest  Deals  from  DreamHost .COM  Domain  Names  @  $7.99  Hosting  Starting  @  $2.59/mo  PCMag's  "Editors'  Choice"  Winner  4  Years  In  a  Row DreamHost  Helps  You  Succeed Grow  your  website  faster  by  using  DreamHost  as  your  foundation. Super  Easy  to  Use Our  custom  control  panel  is  simple  to  use  and  removes  the  headache  of  managing  your  web  hosting. Full  Featured We  do  more  than  web  hosting.  Our  tool  suite  includes  everything  you  need  to  be  successful. Fast  &  Reliable If  your  website  is  slow  or  down,  then  you  are  losing  customers,  conversion  and  search  engine  rankings. 24/7  Expert  Support Our  award-winning  US-based  experts  are  available  to  help  when  you  get  stuck  —  anytime,  day  or  night. Big  or  Small,  Rookie  or  Professional  — We  Have  a  Hosting  Solution  For  You Choose  a  platform  or  chat  with  us to  help  you  decide. Most  Popular Shared  Hosting Our  most  popular  product!  Shared  Web  Hosting  gives  you  a  free  domain  name,  fast  SSD  storage  and  email  hosting  for  your  website Starting  at:  $2.59 /mo Learn  More WordPress  Hosting Get  up  and  running  fast  with  WordPress.  Optimized  for  performance  and  preconfigured  for  easy  maintenance. Starting  at:  $2.59 /mo Learn  More New  Lower  Price:  $10/month VPS  Hosting Virtual  Private  Servers  with  ultra-fast  SSDs  and  flexibility  with  HTTP/2,  Ubuntu,  IPv6,  Nginx,  Node.js  and  more. Starting  at:  $10.00 /mo Learn  More WP  Website  Builder No  code  required!  Build  your  site  confidently  with  design  tools  that  simplify  WordPress. Starting  at:  $2.59 /mo Learn  More Dedicated  Hosting Fast  web  servers  to  run  your  applications  with  root  access  and  a  100%  Uptime  Guarantee. Starting  at:  $149 /mo Learn  More Cloud  Hosting Lightning-fast  servers  with  root  access,  SSD  storage  and  blazing-fast  networking  powered  by  open  APIs  through  OpenStack. Starting  at:  $0.0075 /hour Learn  More Compare  products  against
+
+each  other Close  Comparison
+
+Table PRODUCT GREAT  FOR... PRICE  RANGE Shared  Hosting Small  personal  sites starting  at  $2.59/mo Learn  More VPS  Hosting Hosting  small-to-medium  sized  business  sites  that  require  more  power  and  speed  than  Shared  Hosting. $10/mo  -  $80/mo Learn  More WordPress  Hosting Hosting  your  WordPress  site  and  not  having  to  worry  about  plugin  updates,  backups,  or  security  threats. starting  at  $2.59/mo Learn  More Website  Builder No  code  required!  Build  your  site  confidently  with  design  tools  that  simplify  WordPress. starting  at  $2.59/mo Learn  More Dedicated  Hosting LARGE  websites  and  for  users  who  need  root  access. $149/mo  -  $379/mo Learn  More Cloud  Hosting Creating  simple  cloud  servers  or  advanced  network  configurations. $0.0075/hour  -  $0.08/hour Learn  More Or  Choose  a  Domain Find  your  domain  name Search $0.99 $25.99 $0.89 $10.99 $2.99 $7.99 "I've  always  appreciated  how  easy  it  is  -  how  simple  it  is.  Compared  to  other  sites,  it's  'buy  this,  upgrade  to  this'.  With  DreamHost  it's  been  a  clean  and  honest  experience.  There's  no  massive  marketing  stuff  all  over  the  place." Peter  K  |  J-Cakes.com Customer  Since  2000 "Our  clients  and  customers  count  on  us  to  provide  feature-rich  eCommerce  websites,  and  with  DreamHost  Dedicated  Hosting  we  have  confidence  that  our  sites  are  secure,  fast,  and  reliable.  Dedicated  Hosting  has  been  an  essential  part  of  our  growth  and  success." Laura  Peters  |  Funnychord.com Customer  Since  2015 "I  love  that  DreamHost  has  one-click  WordPress  installs,  which  make  setup  a  breeze!  The  interface  is  the  most  user-friendly  platform  I've  ever  worked  with  after  10-plus  years  of  trying  out  many  other  competitors.  I'm  a  happy,  loyal,  lifelong  customer." Jennifer  Emerling  |  Jennemerlingweddings.com Customer  Since  2008 "I've  been  a  DreamHost  customer  ever  since  I  first  started  doing  web  design.  Their  customer  service  is  outstanding  and  their  hosting  is  super  reliable  at  an  affordable  price." Jeremiah  S  |  Typewolf.com Customer  Since  2011 DreamHost  Helps  You  Get  There.
+ What  Makes  DreamHost  So  Different? With  nearly  20  years  of  hosting  experience,  we  focus  on  successful  sites  for  web  designers,  developers,  bloggers  and  online  businesses.  Our  community  and  support  helps  you  create  a  website  fast  and
+
+easy! Employee  Owned Being  employee-owned  keeps  us  focused  on  the  unique  needs  of  our  users,  and  we  wouldn't  have  it  any  other  way.  We're  committed  to  helping  everyone  find  success  online. Passion  for  Privacy We  believe  in  everyone's  right  to  privacy,  and  we  back  that  with  a  strong  anti-spam  policy  and  free  WHOIS  privacy. Commitment  to  Security Our  many  security  features  include  Multi  Factor  Authentication,  auto-enabled  sFTP  and  free  secure  hosting  with  Let's  Encrypt. Embrace  Open  Source We  strongly  believe  in  providing  open  source  solutions  to  our  customers  whenever  possible. 24/7  Support Our  in-house  team  members  do  their  best  to  provide  one-touch  resolution,  making  you  feel  like  a  part  of  our  family. 100%  Uptime  Guaranteed We  guarantee  it  so  you  don't  have  to  worry  about  it. Frequently  Asked  Questions What  is  Web  Hosting? Web  hosting  allows  businesses,  organizations,  and  individuals  to  make  their  websites  or  apps  visible  on  the  internet.  Whether  they're  using  a  dedicated  server,  or  sharing  resources,  every  website  is  hosted  on  a  server.  The  only  way  for  a  website  to  be  visible  on  the  internet  is  if  it's  hosted  by  a  web  hosting  service  provider,  also  known  as  a  web  host.  In  order  to  find  a  website,  you  type  the  domain  name  (or  URL)  into  your  browser.  Your  computer  will  then  connect  to  the  server  where  the  website  is  hosted,  and  the  webpage  is  delivered  onto  your  screen. What  Are  the  Different  Types  of  Web  Hosting  Products  DreamHost  Offers? DreamHost  offers  several  different  types  of  hosting  plans  that  work  for  all  website  hosting  needs.  Shared  Hosting: Shared  hosting  is  the  most  affordable  option,  but  it  does  have  its  limitations.  Shared  hosting  customers  share  the  server's  resources  with  other  customers.  If  another  website  on  the  same  server  is  receiving  large  amounts  of  traffic,  or  using  a  lot  of  the  server's  limited  resources,  it's  possible  that  your  site  may  run  slower  as  a  result. While  DreamHost  works  hard  to  make  sure  all  sites  on  a  shared  server  never  disrupt  other  sites,  this  is  always  a  possibility  due  to  the  nature  of  the  product.  That's  why  we  recommend  that  you  look  at  our  more  powerful  options  if  you're  expecting  to  experience  high  traffic  levels  on  your  site. What  can  I  host  on  shared  hosting? Shared  hosting  is  perfect  for  blogs,  portfolios,  personal/business  sites,  and  database-driven  sites. Learn  more  about  shared  hosting WordPress  Hosting  (DreamPress) DreamPress  is  DreamHost's  managed  WordPress  hosting.  It's  a  scalable  service  that  allows  users  to  manage  their  WordPress  sites  worry-free  via  automatic  updates,  caching,  daily  backups,  and  a  content  delivery  network  (CDN). Learn  more  about  DreamPress VPS DreamHost's  Virtual  Private  Server  (VPS)  hosting  is  a  premium  solution  that  runs  faster  than  our  shared  hosting.  It's  available  as  an  add-on  to  an  existing  DreamHost  plan,  but  also  as  a  standalone  service. DreamHost's  VPSs  use  Linux-VServer  to  create  a  "virtual  machine"  that  protects  a  user's  resources  from  others  on  the  same  physical  machine.  This  allows  for  a  more  powerful  solution. Shared  vs.  VPS  Hosting On  a  shared  server,  resources  are  shared  by  other  users.  On  a  VPS,  these  resources  are  more  isolated  which  improves  performance  and  helps  to  maintain  stability.  You  also  have  the  ability  to  control  how  much  RAM  your  server  uses. What  can  I  host  on  a  VPS? A  virtual  private  server  is  ideal  for  websites  that  require  more  resources  than  a  shared  server  can  provide,  but  may  not  need  the  full  power  of  a  dedicated  server.  VPS  is  ideal  for  businesses,  ecommerce  websites,  designers,  and  developers  that  need  unhindered  performance. Learn  more  about  VPS Dedicated A  dedicated  server  is  a  server  that  only  contains  your  files  on  it.  You  also  get  full  root  access:  a  major  benefit  if  you're  looking  to  customize  your  server  to  fit  your  specific  needs.  Please  note  that  DreamHost  support  cannot  assist  if  any  errors  occur  as  a  result  of  a  customization. Another  benefit  of  a  dedicated  server  is  that  your  MySQL  server  is  on  the  same  server,  allowing  for  faster  access.  With  all  other  hosting  plans  your  MySQL  database  is  on  a  separate  database  server. What  can  I  host  on  a  Dedicated  server? Dedicated  servers  are  fully-managed,  business  class  servers.  They  are  perfect  for  resource-heavy  apps  and  giant  websites. Learn  more  about  dedicated  hosting Cloud DreamHost  offers  two  different  cloud  hosting  products. Object  Storage DreamObjects  is  a  cost-effective  cloud  storage  service,  which  you  can  use  to  host  static  data  for  your  websites,  store  backups,  or  develop  the  next  big  thing.  You  can  access  DreamObjects  in  your  panel  using  the  built-in  interface,  programmatically  via  standard  APIs,  or  with  a  growing  library  of  applications.  DreamObjects  is  compatible  with  the  Amazon  S3  API. Learn  more  about  compatible  applications  with  DreamObjects Learn  more  about  DreamObjects  here Cloud  Computing DreamCompute  is  a  highly  scalable  cloud  computing  service  built  to  power: Web  and  mobile  applications Digital  media  and  e-commerce  websites Big  data Testing  and  development  environments All  instances  can  be  managed  through  the  DreamCompute's  dashboard  built  off  of  OpenStack's  Horizon . How  Do  I  Buy  a  Domain  Name? Buying  a  domain  name  with  DreamHost  is  simple  and  comes  with  features  that  a  lot  of  other  hosts  don't  offer.  Use  our  domain  search  tool  to  buy  your  desired  domain  name;  we'll  let  you  know  if  someone  else  has  already  purchased  it,  and  will  serve  up  alternative  versions  that  are  available.  After  buying  your  domain  name  with  DreamHost,  you'll  also  receive: +  Free  WHOIS  Privacy  Protection  (which  keeps  your  website  registration  details  private) +  auto-renewals  (so  you  don't  have  to  worry  about  a  lapse  in  ownership) +  unlimited  subdomains  (like  blog.yoursite.com,  or  mexico.yoursite.com,  for  example) +  domain  setting  controls  at  your  fingertips  (like  MX  records,  CNAME,  etc.) How  Do  I  Migrate  Over  to  DreamHost? If  you  want  to  move  your  web  hosting  to  DreamHost,  the  first  step  is  to  create  a  DreamHost  account  –  you  can  do  that  from  any  of  our  product  pages  ( Shared  Hosting ,  VPS ,  Dedicated ,  DreamPress )  During  the  signup  process,  select  the  option  to  add  your  current  domain  to  your  new  account  –  don't  worry,  this  does  NOT  affect  your  current  live  website!  Next,  you'll  need  to  backup  your  website  files  and  upload  them  to  DreamHost.  You  can  learn  more  about  this  here . Once  you've  migrated  your  website  to  DreamHost's  servers,  you'll  need  to  check  the  site  to  confirm  that  it  looks  and  functions  just  as  intended.  If  everything  looks  great,  you'll  need  to  point  your  DNS  to  DreamHost  so  people  know  where  to  find  you!  If  this  sounds  complicated,  don't  worry.  We  have  some  documentation  here on  how  it's  done. Have  some  questions  before  you  get  started?  No  worries.  Get  in  touch with  us  and  we'll  be  happy  to  help. Can  You  Help  Me  Understand  More  About  WordPress? Definitely.  We  have  some  awesome  WordPress  guides that  can  help  answer  most  of  your  questions.  If  you  get  stuck,  we  are  always  here  to  help  as  well. Does  DreamHost  Offer  an  “Email  Only”  Hosting  Plan? Yes!  DreamHost  offers  professional  email  @yourdomain,  with  25GB  storage,  mobile  and  desktop  sync,  ad-free  webmail  —  as  well  as  spam,  virus,  and  phishing  filters.  Promote  your  site  with  every  message  you  send!  Learn  More Can  I  Talk  to  Support  Even  If  I'm  Not  a  Current  Customer? Of  course!  Visit  our  support  page and  select  'Sales'.  Or,  if  you're  on  our  site  between  8-4  PM  PST,  you  can  chat  with  us  from  any  of  our  product  pages  ( Shared  Hosting ,  VPS ,  Dedicated ,  DreamPress ). Need  Some  Help? Whether  you’re  stuck  or  just  want  some  tips  on  where  to  start,  hit  up  our  experts  anytime. Sales  Chat :  MON-FRI  8AM-4PM  PT  |  Customer  Support  Chat :  Every  Day  5:30AM–9:30PM  PT Chat  With  Us Send  us  an  Email Products WordPress  Hosting Website  Builder Shared  Hosting Virtual  Private  Servers Dedicated  Servers Domain  Names Monthly  Web  Hosting Company About Affiliates Blog Careers Community News Green  Hosting Partners Press  Releases Reviews Legal Legal  Information Privacy  Policy Report  Abuse Terms  of  Service WHOIS  Lookup Support Help  us  route  you  to  the  best  support  channel  available Existing  Customer Sales  /  Can't  Login Contact Knowledge  Base Forums System  Status Login Web  Hosting DreamCompute Website  Builder Webmail Copyright  ©  2019  DreamHost,  LLC. var  promoUrl  =  "https://signup.dreamhost.com/?p=";
+ {
+
+"@context":  "http://schema.org",
+
+"@type":  "Corporation",
+
+"name":  "DreamHost,  LLC",
+
+"description":  "DreamHost  is  the  leader  in  WordPress  hosting,  shared  web  hosting,  vps  hosting,  dedicated  hosting,  cloud  storage  and  cloud  computing.",
+
+"url":  "https://www.dreamhost.com/",
+
+"logo":  "https://www.dreamhost.com/blog/wp-content/uploads/2014/08/blog-dh-logo-final.jpgsor",
+
+"sameAs":  [
+
+"https://www.facebook.com/DreamHost/",
+
+"https://twitter.com/dreamhost",
+
+"https://www.instagram.com/dreamhost/",
+
+"https://www.youtube.com/user/dreamhostusa",
+
+"https://www.linkedin.com/company/dreamhost"
+
+]
+
+}

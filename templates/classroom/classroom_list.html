@@ -1,0 +1,51 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container">
+    <div class="row">
+        <div class="col s12">
+            <h2 class="center">Classrooms</h2>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col s8 offset-s2">
+            <div class="card">
+                <div class="center card-content">
+                    <table class="respnsive-table centered striped">
+                        <thead>
+                          <tr>
+                              <th>Course Name</th>
+                              <th>Classroom Details</th>
+                          </tr>
+                        </thead>
+                    
+                        <tbody>
+                            {% for class in object_list %}
+                                <tr>
+                                    <td>{{ class.courseName }}</td>
+                                    <td>
+                                        {% if request.user.is_teacher %}
+                                            <a href="{% url 'view_classroom' pk=class.classRoomId %}"><button class="btn custom-btn">Open Teacher</button></a>
+                                        {% else %}
+                                            <a href="{% url 'view_classroom' pk=class.classRoomId %}"><button class="btn custom-btn">Open Student</button></a>
+                                        {% endif %}
+                                        
+                                    </td>
+                                </tr>
+                            {% empty %}
+                                <tr>
+                                    <td colspan="2">No Class Created</td>
+                                </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+   
+{% endblock %}

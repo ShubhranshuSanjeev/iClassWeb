@@ -1,0 +1,24 @@
+.login_page h2{
+    color: #26c3a1;
+    font-family: 'Long Cang', cursive;
+    font-size: 100px;
+}
+
+.form-container > .row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-container > .row > .col{
+    margin-left: 0;
+}
+
+.dominate{
+    font-size: 27px;
+}
+
+.input-field{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
