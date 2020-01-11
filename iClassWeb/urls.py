@@ -40,6 +40,7 @@ urlpatterns = [
     re_path(r'^reset/done/$', auth_views.PasswordResetCompleteView.as_view(template_name='accounts/password_reset_complete.html'), name='password_reset_complete'),
     re_path(r'^password_reset/done/$', auth_views.PasswordResetDoneView.as_view(template_name='accounts/password_reset_done.html'), name='password_reset_done'),
     re_path(r'^view_classrooms/(?P<pk>[0-9A-Za-z_\-]+)/$', classroomViews.ClassRoomDetails.as_view(), name='view_classroom'),
+    re_path(r'^assignment/(?P<pk>[0-9]+)/$', classroomViews.ManageAssignment.as_view(), name='manage_assignment'),
     re_path(r'^list_submissions/(?P<pk>[0-9]+)/$', classroomViews.ListAssignmentSubmissions.as_view(), name='list_submissions'),
     re_path(r'^update_marks/(?P<pk>[0-9]+)/$', classroomViews.UpdateMarksView.as_view(), name='update_marks'),
 ]+ static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

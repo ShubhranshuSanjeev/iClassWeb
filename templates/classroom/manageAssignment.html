@@ -1,0 +1,50 @@
+{% extends 'card_base.html' %}
+
+{% block card_content %}
+    <div class="col s12 center" style="margin-bottom: 40px;">
+        <h4 style="text-decoration: underline;">MANAGE ASSIGNMENT</h4>
+    </div>
+    <form class="col s10 push-s1" method="post">
+        {% csrf_token %}
+        <div class="row valign-wrapper">
+            <div class="col s6">
+                <p align="left">Description</p>
+            </div>
+            <div class="col s6">
+                <div class="input-field" style="margin: 0;">
+                    {{ form.description }}
+                </div>
+            </div>
+        </div>
+        <div class="row valign-wrapper">
+            <div class="col s6">
+                <p align="left">Maximum Marks</p>
+            </div>
+            <div class="col s6">
+                <div class="input-field" style="margin: 0;">
+                    {{ form.maximumMarks }}
+                </div>
+            </div>
+        </div>
+        <div class="row valign-wrapper">
+            <div class="col s6">
+                <p align="left">Assignment Question</p>
+            </div>
+            <div class="col s6">
+                <div class="input-field" style="margin: 0;">
+                    {{ form.assignmentQuestion }}
+                </div> 
+            </div>
+        </div>
+        <button class="btn custom-btn" type="submit" style="margin-bottom: 15px;">Change
+            <i class="material-icons left">check</i>
+        </button>
+    </form>
+{% endblock %}
+
+{% block errors %}
+    {{ form.non_field_errors }}
+    {{ form.description.errors }}
+    {{ form.maximumMarks.errors }}
+    {{ form.assignmentQuestion.errors }}
+{% endblock %}

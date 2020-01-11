@@ -27,9 +27,9 @@
                                     <td>{{ class.courseName }}</td>
                                     <td>
                                         {% if request.user.is_teacher %}
-                                            <a href="{% url 'view_classroom' pk=class.classRoomId %}"><button class="btn custom-btn">Open Teacher</button></a>
+                                            <a href="{% url 'view_classroom' pk=class.classRoomId %}"><button class="btn custom-btn">Open</button></a>
                                         {% else %}
-                                            <a href="{% url 'view_classroom' pk=class.classRoomId %}"><button class="btn custom-btn">Open Student</button></a>
+                                            <a href="{% url 'view_classroom' pk=class.classRoomId %}"><button class="btn custom-btn">Open</button></a>
                                         {% endif %}
                                         
                                     </td>

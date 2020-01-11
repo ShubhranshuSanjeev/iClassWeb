@@ -1,106 +1,68 @@
-{% extends 'base.html' %}
-{% block content %}
-    <div class="container">
-        <div class="row">
-            <div class="col s12">
-                <div class="card">
-                    <div class="card-content">
-                        <div class="row">
-                            <div class="col s12 center" style="margin-bottom: 40px;">
-                                <h4 style="margin: 0; text-decoration: underline;">CLASS DETAILS</h4> 
-                            </div>
-                            <div class="col s12">
-                                <div class="row">
-                                    <div class="col s5"><p>Course Name:</p></div>
-                                    <div class="col s6"><p>{{ courseName }}</p></div>
-                                </div>
-                                <div class="row">
-                                    <div class="col s5"><p>Room No:</p></div>
-                                    <div class="col s6"><p>{{ roomNumber }}</p></div>
-                                </div>
-                                <div class="row">
-                                    <div class="col s5"><p>Teacher Name:</p></div>
-                                    <div class="col s6"><p>{{ teacherName }}</p></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+{% extends 'classroom_detail_base.html' %}
+{% block class_details %}
+    <div class="row">
+        <div class="col s5"><p>Course Name:</p></div>
+        <div class="col s6"><p>{{ courseName }}</p></div>
     </div>
-    <div class="container">
-        <div class="row">
-            <div class="col s12">
-                <ul class="collapsible">
-                    <li class="active">
-                        <div class="collapsible-header"><i class="material-icons">content_paste</i>ASSIGNMENTS</div>
-                        <div class="collapsible-body">
-                            <div class="card">
-                                <div class="card-content">
-                                    <table class="respnsive-table centered striped">
-                                        <thead>
-                                        <tr>
-                                            <th>DESCRIPTION</th>
-                                            <th>QUESTION</th>
-                                            <th>SUBMISSIONS</th>
-                                        </tr>
-                                        </thead>
-                                    
-                                        <tbody>
-                                            {% for assignment in assignments %}
-                                                <tr>
-                                                    <td>{{ assignment.description }}</td>
-                                                    <td><a href="{{ MEDIA_URL }}{{assignment.assignmentQuestion}}" download><i class="material-icons center">file_download</i></a></td>
-                                                    <td id="form-content-{{assignment.id}}">
-                                                        <a href="#"><button class="btn btn-small modal-trigger" data-target="modal1" onclick='loadAssignmentNumber({{assignment.id}})'><i class="material-icons left">file_upload</i> UPLOAD ANSWER</button></a>
-                                                    </td>
-                                                </tr>
-                                            {% empty %}
-                                                <tr>
-                                                    <td colspan="3">No Assignment Added</td>
-                                                </tr>
-                                            {% endfor %}
-                                        </tbody>
-                                    </table>
-                                </div>
-                            </div>
-                         </div>
-                    </li>
-                    <li>
-                        <div class="collapsible-header"><i class="material-icons">book</i>NOTES</div>
-                        <div class="collapsible-body">
-                            <div class="card">
-                                <div class="card-content">
-                                    <table class="respnsive-table centered striped">
-                                        <thead>
-                                        <tr>
-                                            <th>DESCRIPTION</th>
-                                            <th>REFERENCE MATERIAL</th>
-                                        </tr>
-                                        </thead>
-                                    
-                                        <tbody>
-                                            {% for note in notes %}
-                                                <tr>
-                                                    <td>{{ note.description }}</td>
-                                                    <td><a href="{{ MEDIA_URL }}{{note.notesFile}}" download><i class="material-icons center">file_download</i></a></td>
-                                                </tr>
-                                            {% empty %}
-                                                <tr>
-                                                    <td colspan="3">No Notes Added</td>
-                                                </tr>
-                                            {% endfor %}
-                                        </tbody>
-                                    </table>
-                                </div>
-                            </div>
-                        </div>
-                    </li>
-                </ul>
-            </div>
-        </div>
+    <div class="row">
+        <div class="col s5"><p>Room No:</p></div>
+        <div class="col s6"><p>{{ roomNumber }}</p></div>
     </div>
+    <div class="row">
+        <div class="col s5"><p>Teacher Name:</p></div>
+        <div class="col s6"><p>{{ teacherName }}</p></div>
+    </div>
+{% endblock %}
+
+{% block assignment_table %}
+    <thead>
+    <tr>
+        <th>DESCRIPTION</th>
+        <th>QUESTION</th>
+        <th>SUBMISSIONS</th>
+    </tr>
+    </thead>
+
+    <tbody>
+        {% for assignment in assignments %}
+            <tr>
+                <td>{{ assignment.description }}</td>
+                <td><a href="{{ MEDIA_URL }}{{assignment.assignmentQuestion}}" download><i class="material-icons center">file_download</i></a></td>
+                <td id="form-content-{{assignment.id}}">
+                    <a href="#"><button class="btn btn-small modal-trigger" data-target="modal1" onclick='loadAssignmentNumber({{assignment.id}})'><i class="material-icons left">file_upload</i> UPLOAD ANSWER</button></a>
+                </td>
+            </tr>
+        {% empty %}
+            <tr>
+                <td colspan="3">No Assignment Added</td>
+            </tr>
+        {% endfor %}
+    </tbody>
+{% endblock %}
+
+{% block notes_table %}
+    <thead>
+    <tr>
+        <th>DESCRIPTION</th>
+        <th>REFERENCE MATERIAL</th>
+    </tr>
+    </thead>
+
+    <tbody>
+        {% for note in notes %}
+            <tr>
+                <td>{{ note.description }}</td>
+                <td><a href="{{ MEDIA_URL }}{{note.notesFile}}" download><i class="material-icons center">file_download</i></a></td>
+            </tr>
+        {% empty %}
+            <tr>
+                <td colspan="3">No Notes Added</td>
+            </tr>
+        {% endfor %}
+    </tbody>
+{% endblock %}
+
+{% block modal_content %}
     <div id="modal1" class="modal">
         <div class="modal-content">
             <div class="card">

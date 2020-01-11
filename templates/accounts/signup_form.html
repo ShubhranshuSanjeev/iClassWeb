@@ -1,46 +1,37 @@
-{% extends 'form_base.html' %}
+{% extends 'accounts_form_base.html' %}
 
-{% block content %}
-<div class="container form-container">
-    <div class="row">
-        <div class="col s9">
-            <div class="card">
-                <div class="card-content center">
-                    <p style="text-transform: uppercase;"><strong class="dominate">Signup as a {{ user_type }}</strong><span>&nbsp;&nbsp;OR&nbsp;<a href="{% url 'login' %}" style="color: #26c3a1; text-decoration: underline;">LOGIN</a></span></p>
-                    <div class="row">
-                        <form class="col s8 offset-s2" method="post">
-                            {% csrf_token %}
-                            {{ form.non_field_errors }}
-                            <div class="input-field">
-                                {{ form.email }}
-                                <label for='id_email'>Email</label>
-                            </div>
-                            <div class="input-field">
-                                {{ form.username }}
-                                <label for='id_username'>Username</label>
-                            </div>
-                            <div class="input-field">
-                                {{ form.password1 }}
-                                <label for='id_password1'>Password</label>
-                            </div>
-                            <div class="input-field">
-                                {{ form.password2 }}
-                                <label for='id_password2'>Confirm Password</label>
-                            </div>
-                            <button class="btn custom-btn" type="submit">Submit
-                            <i class="material-icons right">check</i>
-                            </button>
-                        </form>
-                    </div>
-                </div>
-            </div>
-            <div class="errors center">
-                {{ form.email.errors }}
-                {{ form.username.errors }}
-                {{ form.password1.errors }}
-                {{ form.password2.errors }}
-            </div>
-        </div>
+{% block form_content %}
+    <div class="col s12 center">
+        <p style="text-transform: uppercase;"><strong class="dominate">Signup as a {{ user_type }}</strong><span>&nbsp;&nbsp;OR&nbsp;<a href="{% url 'login' %}" style="color: #26c3a1; text-decoration: underline;">LOGIN</a></span></p>
     </div>
-</div>
+    <form class="col s8 offset-s2" method="post">
+        {% csrf_token %}
+        <div class="input-field">
+            {{ form.email }}
+            <label for='id_email'>Email</label>
+        </div>
+        <div class="input-field">
+            {{ form.username }}
+            <label for='id_username'>Username</label>
+        </div>
+        <div class="input-field">
+            {{ form.password1 }}
+            <label for='id_password1'>Password</label>
+        </div>
+        <div class="input-field">
+            {{ form.password2 }}
+            <label for='id_password2'>Confirm Password</label>
+        </div>
+        <button class="btn custom-btn" type="submit">Submit
+        <i class="material-icons right">check</i>
+        </button>
+    </form>
+{% endblock %}
+
+{% block errors %}
+    {{ form.non_field_errors }}
+    {{ form.email.errors }}
+    {{ form.username.errors }}
+    {{ form.password1.errors }}
+    {{ form.password2.errors }}
 {% endblock %}

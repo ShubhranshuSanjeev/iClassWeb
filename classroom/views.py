@@ -183,3 +183,14 @@ class ListAssignmentSubmissions(ListView):
 
     def get_queryset(self):
         return models.StudentAssignmentSubmission.objects.filter(assignmentId = self.kwargs['pk'])
+
+class ManageAssignment(UpdateView):
+    model                                           = models.Assignments
+    template_name                                   = 'classroom/manageAssignment.html'
+    fields                                          = ['description', 'maximumMarks', 'assignmentQuestion']
+    
+    def get_success_url(self):
+        return '/assignment/{0}'.format(self.kwargs['pk'])
+    
+    def get_object(self):
+        return models.Assignments.objects.get(id = self.kwargs['pk'])
