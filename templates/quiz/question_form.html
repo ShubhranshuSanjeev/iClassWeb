@@ -1,0 +1,21 @@
+{% extends 'card_base.html' %}
+
+{% block card_content %}
+<div class="col s12">
+    <div class="row center">
+        <div class="col s12" style="text-decoration: underline;"><h4>{{ quizTitle }}</h4></div>
+    </div>
+    <div class="row">
+        <div class="col s12">
+            <form method="POST">
+                {% csrf_token %}
+                <div class="input-field">
+                    <p>Question</p>
+                    {{ form.question }}
+                </div>
+                <button type="submit" class="btn btn-small"><i class="material-icons left">add</i>ADD QUESTION</button>
+            </form>
+        </div>
+    </div>
+</div>
+{% endblock %}

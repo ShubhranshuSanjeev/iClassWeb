@@ -30,7 +30,7 @@
                         <div class="collapsible-body">
                             <div class="card">
                                 <div class="card-content">
-                                    <table class="respnsive-table centered striped">
+                                    <table class="responsive-table centered striped">
                                         {% block student_table %}
                                         {% endblock %}
                                     </table>
@@ -50,9 +50,6 @@
                                     </table>
                                 </div>
                             </div>
-                            {% if request.user.is_teacher %}
-                            <a href="#"><button class="btn custom-btn modal-trigger" data-target="modal1">ADD NEW ASSIGNMENT</button></a>
-                            {% endif %}
                         </div> 
                     </li>
                     <li>
@@ -66,9 +63,6 @@
                                     </table>
                                 </div>
                             </div>
-                            {% if request.user.is_teacher %}
-                            <a href="#"><button class="btn custom-btn modal-trigger" data-target="modal2">ADD NOTES</button></a>
-                            {% endif %}
                         </div>
                     </li>
                 </ul>

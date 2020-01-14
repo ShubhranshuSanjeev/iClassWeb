@@ -1,0 +1,61 @@
+{% extends 'card_base.html' %}
+{% block card_content %}
+<div class="col s12">
+    <div class="row center">
+        <div class="col s12" style="text-decoration: underline;"><h4>{{ quizTitle }}</h4></div>
+    </div>
+    <div class="row">
+        <form method="POST">
+            {% csrf_token %}
+            {{ formset.management_form }}
+            {{ form }}
+            <div class="card">
+                <div class="card-content">
+                    <table class="respnsive-table centered striped">
+                        <thead>
+                            <tr>
+                                <th>Answers</th>
+                                <th>Correct?</th>
+                                <th>Delete?</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for form in formset %}
+                            <tr>
+                                <td style="padding: 0 10px 0 25px;">
+                                    {% for hidden in form.hidden_fields %}{{ hidden }}{% endfor %}
+                                    {{ form.answer }}
+                                    {% if form.instance.pk and form.answer.value != form.instance.answer %}
+                                        <strong>Old answer:</strong> 
+                                        {{ form.instance.answer }}
+                                    {% endif %}
+                                </td>
+                                <td>
+                                    <label>
+                                        {{form.is_correct}}
+                                        <span>Correct</span>
+                                    </label>
+                                </td>
+                                <td>
+                                    {% if form.instance.pk %}
+                                        <label>
+                                            {{form.DELETE}}
+                                            <span>Delete</span>
+                                        </label>
+                                    {% endif %}
+                                </td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+            {{formset.non_form_errors}}
+            <p>
+                <small class="form-text text-muted">Your question may have at least <strong>2</strong> answers and maximum <strong>10</strong> answers. Select at least one correct answer.</small>
+            </p>
+            <button type="submit" class="btn custom-btn">Save changes</button>
+        </form>
+    </div>
+</div>
+{% endblock %}

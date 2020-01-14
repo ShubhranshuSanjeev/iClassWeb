@@ -1,0 +1,13 @@
+{% extends 'card_base.html' %}
+
+{% block card_content %}
+    <div class="col s12">
+        <p>{{ question }}</p>
+    </div>
+    <div class="col s12">
+        <form method="POST">
+            {{form.answer}}
+            <button class="btn" type="submit">Next</button>
+        </form>
+    </div>
+{% endblock %}

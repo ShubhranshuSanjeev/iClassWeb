@@ -1,0 +1,78 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<div class="container">
+    <div class="row">
+        <div class="col s12">
+            <h2 class="center">Quizzes</h2>
+        </div>
+    </div>
+</div>
+<div class="container">
+    <div class="row">
+        <div class="col s10 push-s1">
+            <div class="card">
+                <div class="center card-content">
+                    <table class="respnsive-table centered striped">
+                        <thead>
+                          <tr>
+                              <th>Quiz Name</th>
+                              <th>Action</th>
+                          </tr>
+                        </thead>
+                    
+                        <tbody>
+                            {% for quiz in object_list %}
+                                <tr>
+                                    <td>{{ quiz.title }}</td>
+                                    <td>
+                                        {% if request.user.is_teacher %}
+                                            <a href="{% url 'manage_quiz' pk=quiz.id %}"><button class="btn custom-btn">Add/Remove/Manage Questions</button></a>
+                                        {% else %}
+                                            <a href="{% url 'attempt_quiz' pk=quiz.id %}"><button class="btn custom-btn">Attempt Quiz</button></a>
+                                        {% endif %}
+                                    </td>
+                                </tr>
+                            {% empty %}
+                                <tr>
+                                    {% if request.user.is_teacher %}
+                                    <td colspan="2">No Quiz Created</td>
+                                    {% else %}
+                                    <td colspan="2">No Quiz Available</td>
+                                    {% endif %}
+                                </tr>
+                            {% endfor %}
+                            {% if request.user.is_teacher %}
+                                <tr>
+                                    <td colspan="2"><a href="#"><button class="btn custom-btn modal-trigger" data-target="modal1">CREATE QUIZ</button></a></td>
+                                </tr>
+                            {% endif %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% if request.user.is_teacher %}
+<div id="modal1" class="modal">
+    <div class="modal-content">
+        <div class="card">
+            <div class="card-content center">
+                <form method="POST">
+                    {% csrf_token %}
+                    <div class="input-field">
+                        {{ form.title }}
+                        <label for="id_title">Title</label>
+                    </div>
+                    <button class="btn custom-btn" type="submit" style="margin-bottom: 15px;" name="createQuiz">CREATE
+                        <i class="material-icons left">check</i>
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+{% endif %}
+   
+{% endblock %}

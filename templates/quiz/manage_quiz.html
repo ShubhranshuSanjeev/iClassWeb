@@ -1,0 +1,55 @@
+{% extends 'card_base.html' %}
+
+{% block card_content %}
+<div class="col s12 center" style="margin-bottom: 40px;">
+    <h4 style="margin: 0; text-decoration: underline;">QUIZ DETAILS</h4> 
+</div>
+<div class="col s12">
+    <div class="row center">
+        <div class="col s12" style="text-decoration: underline;"><h4>{{object.title}}</h4></div>
+    </div>
+    <div class="row">
+        <div class="col s12">
+            <div class="card">
+                <div class="card-content">
+                    <form method="POST" class="row valign-wrapper">
+                        {% csrf_token %}
+                        <div class="input-field col s12">
+                            <p>Title</p>
+                            {{ form.title }}
+                        </div>
+                        <div class="col s3">
+                            <button type="submit" class="btn btn-small" name="updateQuiz"><i class="material-icons left">check</i>SAVE CHANGES</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <table class="respnsive-table centered striped">
+            <thead>
+                <tr>
+                    <th>Question</th>
+                    <th>Answers</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for question in questions %}
+                    <tr>
+                        <td>{{question.question}}</td>
+                        <td><a href="{% url 'manage_questions' quiz_pk=object.id pk=question.id %}"><button class="btn btn-small">ADD ANSWERS</button></a></td>
+                    </tr>
+                {% empty %}
+                    <tr>
+                        <td colspan="2">No Question Added</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    <div class="row center">
+        <a href="{% url 'add_question' pk=object.id %}" class="btn-floating btn-large waves-effect waves-light"><i class="material-icons">add</i></a>
+    </div>
+</div>
+{% endblock %}

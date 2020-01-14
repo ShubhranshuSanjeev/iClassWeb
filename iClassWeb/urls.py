@@ -17,6 +17,7 @@ from django.contrib import admin
 from django.urls import path, re_path
 from accounts import views as accountViews
 from classroom import views as classroomViews
+from quiz import views as quizViews
 from django.contrib.auth import views as auth_views
 from django.conf.urls.static import static
 from django.conf import settings
@@ -43,4 +44,10 @@ urlpatterns = [
     re_path(r'^assignment/(?P<pk>[0-9]+)/$', classroomViews.ManageAssignment.as_view(), name='manage_assignment'),
     re_path(r'^list_submissions/(?P<pk>[0-9]+)/$', classroomViews.ListAssignmentSubmissions.as_view(), name='list_submissions'),
     re_path(r'^update_marks/(?P<pk>[0-9]+)/$', classroomViews.UpdateMarksView.as_view(), name='update_marks'),
+    re_path(r'^list_quiz/(?P<pk>[0-9A-Za-z_\-]+)/$', quizViews.QuizView.as_view(), name='list_quiz'),
+    re_path(r'^manage_quiz/(?P<pk>[0-9]+)/$', quizViews.ManageQuiz.as_view(), name='manage_quiz'),
+    re_path(r'^add_question/(?P<pk>[0-9]+)/$', quizViews.AddQuestion.as_view(), name='add_question'),
+    re_path(r'^manage_questions/(?P<quiz_pk>[0-9]+)/(?P<pk>[0-9]+)/$', quizViews.ManageQuestion.as_view(), name='manage_questions'),
+    re_path(r'^attempt_quiz/(?P<pk>[0-9]+)/$', quizViews.QuizEntryView.as_view(), name='attempt_quiz'),
+    re_path(r'^quiz/(?P<quiz_id>[0-9]+)/(?P<pk>[0-9]+)/$', quizViews.AttemptQuiz.as_view(), name='quiz')
 ]+ static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

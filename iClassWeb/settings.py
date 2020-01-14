@@ -40,8 +40,10 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'crispy_forms',
     'accounts.apps.AccountsConfig',
     'classroom.apps.ClassroomConfig',
+    'quiz.apps.QuizConfig',
 ]
 
 MIDDLEWARE = [
