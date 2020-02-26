@@ -58,7 +58,17 @@
                 {% block content %}
                 {% endblock %}
             {% else %}
-                <h1>Welcome to iClass</h1>
+                <div class="hero">
+                    <div class="hero-text">
+                        <h1>Advance What's Possible</h1>
+                        <p>Schoology brings together the best K-12 learning management system with assessment management to improve student performance, foster collaboration, and personalize learning.</h2>
+                        <br>
+                        <br>
+                        <a class="btn btn-large" href="{% url 'signup' %}">Signup
+                            <i class="material-icons left">input</i>
+                        </a>
+                    </div>
+                </div>
             {%endif%}
         </main>
     </body>

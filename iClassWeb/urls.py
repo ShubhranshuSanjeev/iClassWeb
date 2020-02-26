@@ -25,7 +25,7 @@ from django.conf import settings
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', accountViews.index, name='index'),
-    path('login/', auth_views.LoginView.as_view(template_name='accounts/login.html'), {'next':'accounts/'} , name='login'),
+    path('login/', auth_views.LoginView.as_view(template_name='accounts/login.html'), name='login'),
     path('logout/', auth_views.LogoutView.as_view(), name='logout'),
     path('signup/', accountViews.SignupView.as_view(), name='signup'),
     path('signup/teacher', accountViews.TeacherSignUpView.as_view(), name='teacher_signup'),
@@ -49,5 +49,5 @@ urlpatterns = [
     re_path(r'^add_question/(?P<pk>[0-9]+)/$', quizViews.AddQuestion.as_view(), name='add_question'),
     re_path(r'^manage_questions/(?P<quiz_pk>[0-9]+)/(?P<pk>[0-9]+)/$', quizViews.ManageQuestion.as_view(), name='manage_questions'),
     re_path(r'^attempt_quiz/(?P<pk>[0-9]+)/$', quizViews.QuizEntryView.as_view(), name='attempt_quiz'),
-    re_path(r'^quiz/(?P<quiz_id>[0-9]+)/(?P<pk>[0-9]+)/$', quizViews.AttemptQuiz.as_view(), name='quiz')
+    re_path(r'^quiz/(?P<quiz_id>[0-9]+)/(?P<pk>[0-9]+)/(?P<question_no>[0-9]+)/$', quizViews.AttemptQuiz.as_view(), name='quiz')
 ]+ static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

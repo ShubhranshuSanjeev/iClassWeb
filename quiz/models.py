@@ -32,4 +32,5 @@ class QuizSubmission(models.Model):
 
 class StudentAnswers(models.Model):
     submissionId        = models.ForeignKey(QuizSubmission, on_delete=models.CASCADE)
+    questionId          = models.ForeignKey(Question, on_delete=models.CASCADE)
     answer              = models.ForeignKey(Answer, on_delete=models.CASCADE)       

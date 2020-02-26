@@ -4,7 +4,7 @@
     <div class="col s12 center">
         <p style="text-transform: uppercase;"><strong class="dominate">Signup as a {{ user_type }}</strong><span>&nbsp;&nbsp;OR&nbsp;<a href="{% url 'login' %}" style="color: #26c3a1; text-decoration: underline;">LOGIN</a></span></p>
     </div>
-    <form class="col s8 offset-s2" method="post">
+    <form class="col s8 offset-s2 center" method="post">
         {% csrf_token %}
         <div class="input-field">
             {{ form.email }}

@@ -103,29 +103,63 @@ class QuizEntryView(CreateView):
         form.instance.studentId = Student.objects.get(username = self.request.user.username)
         form.instance.quizId = models.Quiz.objects.get(id = self.kwargs['pk'])
         form.save()
-        return redirect('/quiz/{0}/{1}'.format(self.kwargs['pk'], form.instance.id))
+        x =  models.Question.objects.filter(quizId = self.kwargs['pk']).values('id')[0]['id']
+        print(x)
+        return redirect('/quiz/{0}/{1}/{2}'.format(self.kwargs['pk'], form.instance.id, x))
     
     def get_context_data(self, **kwargs):
         context = super().get_context_data(**kwargs)
         context['quiz'] = models.Quiz.objects.get(id = self.kwargs['pk']).title
-        return context 
+        return context         
 
 class AttemptQuiz(TemplateView):
     model = models.StudentAnswers
     template_name = 'quiz/question_display.html'
 
-    def post():
-        pass
+    def post(self, request, *args, **kwargs):
+        if 'get_question' in request.POST:
+            return redirect('/quiz/{0}/{1}/{2}'.format(self.kwargs['quiz_id'], self.kwargs['pk'], request.POST['get_question']))
+        else:
+            update = 0
+            studentAnswerId = ''
+            form = forms.AttemptQuizForm(question = models.Question.objects.get(id = self.kwargs['question_no']), data=request.POST)
+            if form.is_valid():
+                with transaction.atomic():
+                    update_check = models.StudentAnswers.objects.filter(submissionId = self.kwargs['pk'])
+                    for x in update_check:
+                        print(self.kwargs['question_no'], x.questionId.id)
+                        if int(self.kwargs['question_no']) == x.questionId.id:
+                            update = 1
+                            studentAnswerId = x.id
+                            break  
+                    if not update:
+                        student_answer = form.save(commit = False)
+                        student_answer.submissionId = models.QuizSubmission.objects.get(id = self.kwargs['pk'])
+                        student_answer.questionId = models.Question.objects.get(id = self.kwargs['question_no'])
+                        student_answer.save()
+                    else:
+                        inst = models.StudentAnswers.objects.get(id = studentAnswerId)
+                        inst.answer = form.instance.answer
+                        inst.save(update_fields=['answer'])
+            else:
+                print(form.errors)
+            next_question = self.get_unanswered_questions(**kwargs).id
+            return redirect('/quiz/{0}/{1}/{2}'.format(self.kwargs['quiz_id'], self.kwargs['pk'], next_question))
 
     def get_unanswered_questions(self, **kwargs):
-        questions_answered = [ans.questionId.id  for ans in models.StudentAnswers.objects.filter(submissionId = self.kwargs['pk']).values('answer')]
+        questions_answered = [ans['questionId']  for ans in models.StudentAnswers.objects.filter(submissionId = self.kwargs['pk']).values('questionId')]
         questions_unanswered = models.Question.objects.filter(quizId = self.kwargs['quiz_id']).exclude(id__in=questions_answered)
         return questions_unanswered[0]
 
     def get_context_data(self, **kwargs):
         context = super().get_context_data(**kwargs)
-        unanswered_question = self.get_unanswered_questions(**kwargs)
-        print(unanswered_question.id)
+        unanswered_question = models.Question.objects.get(id = self.kwargs['question_no']) 
+        questions = models.Question.objects.filter(quizId = self.kwargs['quiz_id']).values('id')
+        context['questions'] = []
+        i = 1
+        for question in questions:
+            context['questions'].append((question['id'], i))
+            i += 1
         context['question'] = unanswered_question.question
         context['form'] = forms.AttemptQuizForm(question = unanswered_question)
         return context

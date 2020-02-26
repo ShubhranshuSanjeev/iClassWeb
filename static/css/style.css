@@ -14,7 +14,7 @@ button{
 }
 
 .page-header .navigation-bar{
-    background-color: #26c3a1;
+    background-color: #00b891;
 }
 
 .page-header .navigation-bar .nav-wrapper{
@@ -76,16 +76,45 @@ main{
     width: 100%;
     height: 100vh;
     position: relative;
+    padding: 0;
 }
 
 .color-background{
-    background-color: #26c3a1;
+    background: #00b891;
 }
 
-main h1{
-    text-align: center;
+.hero{
+    width: 100%;
+    height: 100%;
+    background: url(../images/home-hero-girl.svg),linear-gradient(#26c3a1,#1ebcb4,#27CCC0,#52E7F4,#fff 80%);
+    background-position: right top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -100;
+}
+
+.hero .hero-text{
+    width: 60%;
+    height: 50%;
+    position: relative;
+    top: 50%;
+    padding: 20px 30px;
+}
+
+.hero .hero-text h1{
     color: #fff;
+    font-size: 5rem;
     margin: 0;
+}
+
+.hero .hero-text p{
+    color: #fff;
+    font-size: 2rem;
+    letter-spacing: 1px;
+}
+
+.hero .hero-text a{
+    font-size: 25px;
 }
 
 .errors li{

@@ -1,13 +1,38 @@
 {% extends 'card_base.html' %}
 
+{% block extra_content %}
+<div class="container form-container">
+    <div class="row">
+        <div class="col s6 push-s3">
+            <div class="card">
+                <div class="card-content">
+                    <div class="row">
+                        <form method="POST">
+                            {% csrf_token %}
+                        {% for question in questions %}
+                            <button class="btn btn-small" name="get_question" value="{{ question.0 }}" type="submit">{{question.1}}</button>
+                        {% endfor %}
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
 {% block card_content %}
     <div class="col s12">
         <p>{{ question }}</p>
     </div>
     <div class="col s12">
-        <form method="POST">
+        <form method="POST" novalidate>
+            {% csrf_token %}
             {{form.answer}}
             <button class="btn" type="submit">Next</button>
         </form>
     </div>
+    {% block errors %}
+        {{ form.non_field_errors }}
+        {{ form.answer.errors }}
+    {% endblock %}
 {% endblock %}

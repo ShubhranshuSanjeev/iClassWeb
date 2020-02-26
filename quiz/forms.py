@@ -39,14 +39,14 @@ class AttemptQuizForm(forms.ModelForm):
     answer = forms.ModelChoiceField(
         queryset=models.Answer.objects.none(), 
         widget=forms.RadioSelect(), 
-        required=True, empty_label=None)
+        required=True,
+        empty_label=None)
     
     class Meta:
         model = models.StudentAnswers
         fields = ('answer', )
-    
+
     def  __init__(self, *args, **kwargs):
         question = kwargs.pop('question')
         super().__init__(*args, **kwargs)
         self.fields['answer'].queryset = models.Answer.objects.filter(questionId = question.id)
-        print(self.fields['answer'].queryset)
